@@ -1,0 +1,7 @@
+product_id,product_name,category,stock_level,reorder_level
+101,Widget A,Gadgets,10,5
+102,Widget B,Gadgets,8,5
+103,Widget C,Tools,15,10
+104,Widget D,Tools,5,5
+105,Widget E,Accessories,20,10
+106,Widget F,Accessories,12,8

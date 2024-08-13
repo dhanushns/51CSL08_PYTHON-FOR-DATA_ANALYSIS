@@ -1,0 +1,11 @@
+order_id,product_id,quantity_sold,price,sale_date,product_name,category,stock_level,reorder_level,customer_id,feedback,rating,total_sales,low_inventory
+1001,101,2,15.0,2024-08-01,Widget A,Gadgets,10,5,C001,Great product!,5,30.0,False
+1002,102,1,25.0,2024-08-02,Widget B,Gadgets,8,5,C002,Satisfied,4,25.0,False
+1003,103,3,30.0,2024-08-03,Widget C,Tools,15,10,C003,"Okay, but could be better",3,90.0,False
+1004,104,1,50.0,2024-08-04,Widget D,Tools,5,5,C004,Loved it!,5,50.0,False
+1005,105,4,10.0,2024-08-05,Widget E,Accessories,20,10,C005,Not what I expected,2,40.0,False
+2001,101,5,14.0,2024-08-01,Widget A,Gadgets,10,5,C006,Perfect!,5,70.0,False
+2002,102,2,24.0,2024-08-02,Widget B,Gadgets,8,5,C007,Good value,4,48.0,False
+2003,103,1,28.0,2024-08-03,Widget C,Tools,15,10,C008,Quality issue,2,28.0,False
+2004,104,3,49.0,2024-08-04,Widget D,Tools,5,5,C009,Would buy again,5,147.0,False
+2005,106,2,9.0,2024-08-05,Widget F,Accessories,12,8,C010,Not great,2,18.0,False

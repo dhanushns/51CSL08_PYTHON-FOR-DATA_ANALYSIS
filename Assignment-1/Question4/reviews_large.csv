@@ -1,0 +1,3001 @@
+review_id,customer_id,product_id,rating,review_text
+1001,46,235,2,Excellent phone!
+1002,647,549,3,Excellent phone!
+1003,829,695,3,Good but pricey.
+1004,954,319,1,Good but pricey.
+1005,58,397,5,Excellent phone!
+1006,13,254,5,Great product!
+1007,949,459,5,Good but pricey.
+1008,612,462,2,Good but pricey.
+1009,961,543,3,Great product!
+1010,49,566,1,Excellent phone!
+1011,803,512,2,Nice sound quality.
+1012,94,202,4,Good but pricey.
+1013,607,282,4,Great product!
+1014,657,550,4,Good but pricey.
+1015,584,622,3,Great product!
+1016,451,640,4,Good but pricey.
+1017,379,205,5,Excellent phone!
+1018,10,374,4,Great product!
+1019,674,697,2,Nice sound quality.
+1020,726,339,4,Nice sound quality.
+1021,516,393,5,Good but pricey.
+1022,224,338,4,Nice sound quality.
+1023,381,497,1,Good but pricey.
+1024,541,316,5,Great product!
+1025,302,244,3,Great product!
+1026,203,546,4,Nice sound quality.
+1027,942,489,2,Nice sound quality.
+1028,589,419,4,Excellent phone!
+1029,571,256,2,Great product!
+1030,957,442,1,Nice sound quality.
+1031,196,596,3,Nice sound quality.
+1032,322,458,5,Nice sound quality.
+1033,418,201,5,Good but pricey.
+1034,619,649,3,Excellent phone!
+1035,342,577,1,Great product!
+1036,389,581,1,Nice sound quality.
+1037,9,489,4,Nice sound quality.
+1038,532,670,1,Nice sound quality.
+1039,149,660,4,Good but pricey.
+1040,383,303,2,Great product!
+1041,529,492,3,Nice sound quality.
+1042,12,349,2,Nice sound quality.
+1043,476,284,2,Good but pricey.
+1044,594,620,2,Good but pricey.
+1045,579,226,2,Excellent phone!
+1046,645,375,5,Excellent phone!
+1047,956,423,1,Great product!
+1048,53,329,3,Excellent phone!
+1049,436,622,3,Great product!
+1050,206,342,2,Excellent phone!
+1051,944,546,3,Nice sound quality.
+1052,986,502,4,Excellent phone!
+1053,915,498,3,Nice sound quality.
+1054,745,335,2,Great product!
+1055,913,255,3,Excellent phone!
+1056,54,256,1,Excellent phone!
+1057,999,574,2,Excellent phone!
+1058,580,276,5,Nice sound quality.
+1059,490,519,1,Nice sound quality.
+1060,803,608,3,Excellent phone!
+1061,344,539,5,Great product!
+1062,169,657,1,Nice sound quality.
+1063,909,555,4,Good but pricey.
+1064,161,332,1,Great product!
+1065,527,693,5,Great product!
+1066,703,242,4,Great product!
+1067,527,552,3,Nice sound quality.
+1068,287,310,2,Excellent phone!
+1069,875,270,3,Excellent phone!
+1070,412,484,2,Good but pricey.
+1071,522,326,2,Excellent phone!
+1072,569,548,5,Good but pricey.
+1073,199,496,4,Good but pricey.
+1074,161,379,4,Excellent phone!
+1075,775,613,1,Good but pricey.
+1076,389,498,3,Great product!
+1077,474,574,5,Great product!
+1078,381,397,3,Great product!
+1079,765,461,1,Nice sound quality.
+1080,631,301,1,Good but pricey.
+1081,592,625,5,Good but pricey.
+1082,124,261,1,Great product!
+1083,825,383,5,Nice sound quality.
+1084,72,612,1,Excellent phone!
+1085,982,497,4,Great product!
+1086,994,567,5,Nice sound quality.
+1087,168,209,4,Excellent phone!
+1088,284,613,4,Nice sound quality.
+1089,494,406,5,Excellent phone!
+1090,36,622,3,Good but pricey.
+1091,824,518,2,Good but pricey.
+1092,175,254,1,Nice sound quality.
+1093,199,380,1,Nice sound quality.
+1094,116,304,3,Excellent phone!
+1095,936,326,2,Nice sound quality.
+1096,315,234,3,Nice sound quality.
+1097,939,365,2,Excellent phone!
+1098,220,633,5,Excellent phone!
+1099,891,498,5,Good but pricey.
+1100,578,470,4,Great product!
+1101,777,666,4,Nice sound quality.
+1102,134,489,5,Excellent phone!
+1103,631,318,4,Good but pricey.
+1104,122,554,5,Great product!
+1105,833,292,3,Nice sound quality.
+1106,899,300,1,Good but pricey.
+1107,970,693,5,Great product!
+1108,421,696,5,Nice sound quality.
+1109,895,685,5,Good but pricey.
+1110,492,287,4,Nice sound quality.
+1111,599,434,4,Great product!
+1112,289,601,4,Excellent phone!
+1113,649,324,4,Good but pricey.
+1114,53,403,3,Great product!
+1115,205,232,5,Nice sound quality.
+1116,348,557,3,Great product!
+1117,51,663,4,Great product!
+1118,839,652,3,Excellent phone!
+1119,922,239,5,Good but pricey.
+1120,912,294,5,Great product!
+1121,40,210,4,Excellent phone!
+1122,250,415,5,Excellent phone!
+1123,218,608,3,Excellent phone!
+1124,179,300,2,Nice sound quality.
+1125,551,444,5,Excellent phone!
+1126,183,258,3,Excellent phone!
+1127,736,653,3,Excellent phone!
+1128,164,557,3,Excellent phone!
+1129,746,691,5,Good but pricey.
+1130,377,520,2,Good but pricey.
+1131,705,219,4,Excellent phone!
+1132,497,557,4,Great product!
+1133,597,317,5,Nice sound quality.
+1134,461,336,5,Great product!
+1135,755,527,1,Great product!
+1136,474,496,2,Excellent phone!
+1137,685,213,3,Great product!
+1138,905,301,3,Good but pricey.
+1139,37,580,4,Good but pricey.
+1140,599,355,5,Nice sound quality.
+1141,641,282,2,Good but pricey.
+1142,706,288,4,Good but pricey.
+1143,319,305,2,Excellent phone!
+1144,555,330,5,Good but pricey.
+1145,412,472,3,Great product!
+1146,356,214,1,Great product!
+1147,671,328,2,Good but pricey.
+1148,617,601,3,Nice sound quality.
+1149,965,260,2,Nice sound quality.
+1150,229,654,2,Nice sound quality.
+1151,729,427,2,Good but pricey.
+1152,264,217,5,Nice sound quality.
+1153,930,245,4,Good but pricey.
+1154,487,238,2,Great product!
+1155,561,324,5,Nice sound quality.
+1156,352,560,1,Nice sound quality.
+1157,442,264,4,Nice sound quality.
+1158,635,577,5,Great product!
+1159,459,453,1,Good but pricey.
+1160,815,462,4,Great product!
+1161,25,644,5,Great product!
+1162,131,312,1,Excellent phone!
+1163,941,302,5,Nice sound quality.
+1164,370,249,1,Good but pricey.
+1165,436,477,2,Good but pricey.
+1166,224,427,2,Excellent phone!
+1167,611,223,4,Excellent phone!
+1168,352,532,1,Great product!
+1169,802,385,2,Excellent phone!
+1170,485,264,4,Good but pricey.
+1171,197,357,3,Good but pricey.
+1172,109,483,2,Good but pricey.
+1173,860,590,2,Great product!
+1174,220,349,5,Nice sound quality.
+1175,776,527,3,Nice sound quality.
+1176,923,563,1,Great product!
+1177,720,369,4,Good but pricey.
+1178,319,664,3,Good but pricey.
+1179,82,333,1,Great product!
+1180,537,599,2,Great product!
+1181,698,605,4,Excellent phone!
+1182,432,514,4,Great product!
+1183,897,332,3,Nice sound quality.
+1184,8,397,5,Great product!
+1185,636,335,1,Good but pricey.
+1186,149,235,3,Good but pricey.
+1187,98,620,5,Good but pricey.
+1188,728,577,5,Nice sound quality.
+1189,101,599,5,Nice sound quality.
+1190,730,420,4,Excellent phone!
+1191,367,586,1,Great product!
+1192,462,576,1,Excellent phone!
+1193,925,385,3,Great product!
+1194,414,205,2,Great product!
+1195,259,271,3,Nice sound quality.
+1196,903,542,1,Good but pricey.
+1197,356,441,4,Great product!
+1198,11,551,3,Nice sound quality.
+1199,416,616,2,Excellent phone!
+1200,571,656,3,Good but pricey.
+1201,250,497,5,Excellent phone!
+1202,652,626,2,Excellent phone!
+1203,847,531,5,Nice sound quality.
+1204,550,393,4,Good but pricey.
+1205,122,695,1,Great product!
+1206,920,368,3,Excellent phone!
+1207,65,539,3,Great product!
+1208,658,436,5,Good but pricey.
+1209,302,494,5,Nice sound quality.
+1210,125,498,1,Nice sound quality.
+1211,312,448,3,Nice sound quality.
+1212,191,365,1,Great product!
+1213,775,512,5,Great product!
+1214,873,271,5,Good but pricey.
+1215,450,431,2,Great product!
+1216,808,255,5,Nice sound quality.
+1217,694,673,5,Excellent phone!
+1218,159,382,1,Excellent phone!
+1219,353,222,2,Excellent phone!
+1220,820,483,2,Nice sound quality.
+1221,990,305,3,Great product!
+1222,799,375,4,Excellent phone!
+1223,674,494,3,Great product!
+1224,263,568,3,Great product!
+1225,729,239,3,Nice sound quality.
+1226,912,599,2,Great product!
+1227,406,575,1,Great product!
+1228,996,650,5,Nice sound quality.
+1229,693,645,2,Good but pricey.
+1230,603,260,5,Excellent phone!
+1231,17,592,5,Excellent phone!
+1232,637,500,4,Great product!
+1233,260,499,3,Good but pricey.
+1234,957,590,4,Nice sound quality.
+1235,890,412,3,Great product!
+1236,355,355,2,Nice sound quality.
+1237,489,373,5,Excellent phone!
+1238,214,223,4,Nice sound quality.
+1239,239,440,2,Excellent phone!
+1240,180,688,2,Nice sound quality.
+1241,419,409,3,Nice sound quality.
+1242,684,322,5,Good but pricey.
+1243,143,453,3,Nice sound quality.
+1244,317,341,3,Great product!
+1245,244,652,2,Good but pricey.
+1246,232,540,3,Great product!
+1247,684,562,1,Nice sound quality.
+1248,789,520,5,Nice sound quality.
+1249,589,353,3,Good but pricey.
+1250,303,581,3,Excellent phone!
+1251,331,414,4,Good but pricey.
+1252,561,508,5,Excellent phone!
+1253,949,248,5,Excellent phone!
+1254,248,517,3,Nice sound quality.
+1255,283,217,1,Great product!
+1256,287,496,4,Good but pricey.
+1257,940,531,1,Good but pricey.
+1258,32,545,3,Nice sound quality.
+1259,500,269,5,Nice sound quality.
+1260,670,285,5,Good but pricey.
+1261,530,482,1,Good but pricey.
+1262,381,408,2,Great product!
+1263,63,640,3,Nice sound quality.
+1264,128,240,5,Great product!
+1265,528,669,2,Nice sound quality.
+1266,163,696,5,Nice sound quality.
+1267,958,296,5,Great product!
+1268,251,652,2,Excellent phone!
+1269,649,686,1,Excellent phone!
+1270,830,450,3,Excellent phone!
+1271,295,573,2,Nice sound quality.
+1272,179,336,2,Great product!
+1273,229,273,5,Excellent phone!
+1274,883,501,2,Good but pricey.
+1275,394,473,3,Excellent phone!
+1276,692,369,1,Great product!
+1277,396,533,1,Nice sound quality.
+1278,72,593,1,Great product!
+1279,318,398,3,Nice sound quality.
+1280,899,547,5,Great product!
+1281,595,306,3,Great product!
+1282,379,301,2,Good but pricey.
+1283,907,559,4,Excellent phone!
+1284,136,435,4,Excellent phone!
+1285,730,480,4,Great product!
+1286,621,529,1,Excellent phone!
+1287,378,577,3,Good but pricey.
+1288,919,306,3,Great product!
+1289,119,595,1,Excellent phone!
+1290,906,235,2,Excellent phone!
+1291,530,357,4,Nice sound quality.
+1292,844,592,4,Excellent phone!
+1293,935,473,1,Excellent phone!
+1294,666,655,4,Nice sound quality.
+1295,523,596,5,Great product!
+1296,650,440,3,Great product!
+1297,387,407,4,Good but pricey.
+1298,574,445,4,Nice sound quality.
+1299,583,293,5,Great product!
+1300,573,309,2,Excellent phone!
+1301,644,506,2,Excellent phone!
+1302,573,314,5,Excellent phone!
+1303,1000,224,2,Good but pricey.
+1304,904,493,1,Great product!
+1305,870,662,5,Nice sound quality.
+1306,269,452,3,Great product!
+1307,524,467,3,Nice sound quality.
+1308,547,555,3,Nice sound quality.
+1309,486,409,4,Great product!
+1310,438,643,5,Excellent phone!
+1311,563,255,5,Excellent phone!
+1312,555,227,2,Nice sound quality.
+1313,740,692,5,Excellent phone!
+1314,111,523,5,Good but pricey.
+1315,322,644,2,Good but pricey.
+1316,527,202,5,Nice sound quality.
+1317,177,268,5,Excellent phone!
+1318,674,602,1,Nice sound quality.
+1319,551,348,2,Good but pricey.
+1320,538,669,1,Good but pricey.
+1321,624,519,4,Good but pricey.
+1322,965,662,2,Great product!
+1323,944,528,5,Good but pricey.
+1324,473,330,5,Excellent phone!
+1325,563,674,1,Great product!
+1326,994,283,1,Good but pricey.
+1327,879,242,4,Excellent phone!
+1328,388,356,4,Good but pricey.
+1329,98,357,5,Excellent phone!
+1330,411,653,3,Excellent phone!
+1331,375,307,4,Good but pricey.
+1332,170,484,5,Good but pricey.
+1333,56,388,4,Great product!
+1334,733,305,2,Good but pricey.
+1335,325,312,1,Excellent phone!
+1336,658,674,5,Nice sound quality.
+1337,957,333,4,Great product!
+1338,260,471,1,Excellent phone!
+1339,641,310,3,Excellent phone!
+1340,562,273,4,Nice sound quality.
+1341,340,616,5,Good but pricey.
+1342,838,636,2,Excellent phone!
+1343,404,546,1,Nice sound quality.
+1344,532,493,1,Nice sound quality.
+1345,174,343,2,Good but pricey.
+1346,795,625,5,Nice sound quality.
+1347,538,460,3,Nice sound quality.
+1348,160,445,2,Nice sound quality.
+1349,10,637,3,Nice sound quality.
+1350,594,684,5,Nice sound quality.
+1351,256,540,4,Nice sound quality.
+1352,617,355,4,Excellent phone!
+1353,652,349,5,Great product!
+1354,714,260,3,Good but pricey.
+1355,344,286,2,Great product!
+1356,536,392,5,Good but pricey.
+1357,373,527,5,Great product!
+1358,435,631,4,Good but pricey.
+1359,934,382,2,Nice sound quality.
+1360,46,487,4,Great product!
+1361,729,473,3,Great product!
+1362,904,455,3,Good but pricey.
+1363,55,634,1,Good but pricey.
+1364,78,207,5,Excellent phone!
+1365,491,326,2,Nice sound quality.
+1366,671,283,2,Nice sound quality.
+1367,856,228,4,Excellent phone!
+1368,272,466,4,Good but pricey.
+1369,660,483,2,Nice sound quality.
+1370,550,597,4,Good but pricey.
+1371,111,650,1,Nice sound quality.
+1372,15,670,5,Great product!
+1373,78,451,1,Great product!
+1374,501,668,3,Nice sound quality.
+1375,588,388,2,Nice sound quality.
+1376,418,583,1,Nice sound quality.
+1377,840,499,1,Excellent phone!
+1378,275,269,4,Nice sound quality.
+1379,494,519,4,Excellent phone!
+1380,197,526,4,Excellent phone!
+1381,376,299,3,Great product!
+1382,731,393,1,Nice sound quality.
+1383,63,427,5,Great product!
+1384,361,651,4,Great product!
+1385,973,382,3,Excellent phone!
+1386,544,620,3,Good but pricey.
+1387,991,527,4,Excellent phone!
+1388,745,293,2,Great product!
+1389,110,343,1,Excellent phone!
+1390,677,403,4,Excellent phone!
+1391,194,602,5,Excellent phone!
+1392,519,692,1,Nice sound quality.
+1393,944,332,3,Excellent phone!
+1394,651,672,5,Great product!
+1395,459,467,1,Excellent phone!
+1396,855,334,5,Nice sound quality.
+1397,799,578,3,Great product!
+1398,940,379,4,Excellent phone!
+1399,301,386,5,Great product!
+1400,968,644,4,Nice sound quality.
+1401,568,218,3,Good but pricey.
+1402,672,663,3,Nice sound quality.
+1403,496,523,5,Nice sound quality.
+1404,149,601,5,Great product!
+1405,799,297,3,Great product!
+1406,769,234,5,Good but pricey.
+1407,461,614,5,Good but pricey.
+1408,139,603,5,Good but pricey.
+1409,861,593,5,Nice sound quality.
+1410,836,624,1,Nice sound quality.
+1411,292,500,3,Good but pricey.
+1412,335,551,3,Good but pricey.
+1413,699,387,2,Good but pricey.
+1414,835,547,4,Excellent phone!
+1415,184,311,2,Excellent phone!
+1416,307,609,5,Good but pricey.
+1417,925,447,5,Nice sound quality.
+1418,981,271,1,Great product!
+1419,898,509,1,Nice sound quality.
+1420,262,632,1,Great product!
+1421,927,527,1,Good but pricey.
+1422,310,412,1,Excellent phone!
+1423,344,509,1,Excellent phone!
+1424,424,308,1,Great product!
+1425,657,377,1,Good but pricey.
+1426,773,627,1,Excellent phone!
+1427,514,428,3,Good but pricey.
+1428,826,219,1,Good but pricey.
+1429,524,522,4,Great product!
+1430,261,618,1,Good but pricey.
+1431,362,448,5,Good but pricey.
+1432,956,409,5,Great product!
+1433,169,416,1,Excellent phone!
+1434,660,401,1,Nice sound quality.
+1435,200,638,5,Good but pricey.
+1436,385,457,4,Great product!
+1437,312,306,2,Excellent phone!
+1438,582,676,3,Good but pricey.
+1439,312,511,5,Nice sound quality.
+1440,566,471,1,Excellent phone!
+1441,395,583,3,Great product!
+1442,771,669,1,Good but pricey.
+1443,351,471,2,Great product!
+1444,28,321,2,Nice sound quality.
+1445,879,607,5,Nice sound quality.
+1446,875,445,3,Great product!
+1447,632,266,3,Good but pricey.
+1448,133,630,2,Great product!
+1449,380,428,1,Excellent phone!
+1450,602,570,5,Great product!
+1451,528,337,4,Nice sound quality.
+1452,287,394,2,Good but pricey.
+1453,284,394,2,Good but pricey.
+1454,903,346,5,Nice sound quality.
+1455,742,345,1,Nice sound quality.
+1456,649,689,3,Excellent phone!
+1457,807,272,2,Nice sound quality.
+1458,227,554,5,Nice sound quality.
+1459,427,618,5,Nice sound quality.
+1460,27,653,5,Good but pricey.
+1461,332,392,3,Nice sound quality.
+1462,117,244,2,Great product!
+1463,89,357,5,Great product!
+1464,619,646,3,Good but pricey.
+1465,733,676,1,Excellent phone!
+1466,735,216,4,Excellent phone!
+1467,122,278,2,Good but pricey.
+1468,894,252,3,Great product!
+1469,866,202,4,Good but pricey.
+1470,33,432,4,Nice sound quality.
+1471,603,261,3,Good but pricey.
+1472,696,332,3,Excellent phone!
+1473,888,582,3,Great product!
+1474,770,252,5,Excellent phone!
+1475,398,497,1,Excellent phone!
+1476,525,380,5,Great product!
+1477,24,231,4,Nice sound quality.
+1478,325,610,4,Great product!
+1479,34,355,4,Great product!
+1480,247,321,3,Good but pricey.
+1481,855,251,2,Great product!
+1482,19,682,5,Good but pricey.
+1483,30,295,2,Excellent phone!
+1484,49,376,1,Great product!
+1485,939,211,1,Nice sound quality.
+1486,912,592,5,Good but pricey.
+1487,180,212,4,Good but pricey.
+1488,370,555,1,Nice sound quality.
+1489,884,245,2,Good but pricey.
+1490,1000,490,2,Good but pricey.
+1491,738,405,3,Nice sound quality.
+1492,945,419,4,Excellent phone!
+1493,395,528,3,Great product!
+1494,590,631,5,Great product!
+1495,496,456,1,Great product!
+1496,431,448,3,Great product!
+1497,207,221,3,Great product!
+1498,35,241,5,Great product!
+1499,762,659,2,Good but pricey.
+1500,583,478,2,Great product!
+1501,413,477,5,Good but pricey.
+1502,364,612,2,Nice sound quality.
+1503,310,395,5,Excellent phone!
+1504,982,271,2,Good but pricey.
+1505,279,470,5,Excellent phone!
+1506,152,535,2,Nice sound quality.
+1507,227,273,3,Great product!
+1508,243,508,3,Excellent phone!
+1509,10,627,2,Excellent phone!
+1510,829,399,5,Nice sound quality.
+1511,392,276,3,Nice sound quality.
+1512,48,475,1,Nice sound quality.
+1513,624,483,2,Good but pricey.
+1514,204,346,1,Good but pricey.
+1515,989,213,1,Excellent phone!
+1516,894,563,4,Nice sound quality.
+1517,157,329,1,Excellent phone!
+1518,855,430,1,Great product!
+1519,26,285,4,Nice sound quality.
+1520,421,362,4,Good but pricey.
+1521,992,597,4,Nice sound quality.
+1522,820,565,5,Excellent phone!
+1523,678,571,4,Good but pricey.
+1524,761,689,5,Great product!
+1525,774,251,2,Great product!
+1526,264,415,5,Excellent phone!
+1527,529,201,2,Nice sound quality.
+1528,588,671,4,Great product!
+1529,958,577,4,Excellent phone!
+1530,470,612,2,Good but pricey.
+1531,254,323,3,Good but pricey.
+1532,718,488,5,Excellent phone!
+1533,546,400,1,Nice sound quality.
+1534,147,383,4,Nice sound quality.
+1535,326,610,5,Nice sound quality.
+1536,338,598,5,Nice sound quality.
+1537,740,416,4,Excellent phone!
+1538,118,440,2,Excellent phone!
+1539,165,549,4,Good but pricey.
+1540,550,268,5,Good but pricey.
+1541,911,519,3,Nice sound quality.
+1542,870,282,2,Great product!
+1543,808,342,4,Great product!
+1544,649,611,1,Good but pricey.
+1545,821,241,4,Good but pricey.
+1546,758,439,5,Excellent phone!
+1547,198,203,5,Good but pricey.
+1548,374,294,1,Good but pricey.
+1549,578,259,2,Nice sound quality.
+1550,592,428,5,Great product!
+1551,564,607,2,Great product!
+1552,129,218,2,Excellent phone!
+1553,414,694,4,Great product!
+1554,380,439,2,Nice sound quality.
+1555,880,560,5,Nice sound quality.
+1556,993,274,5,Excellent phone!
+1557,1,576,3,Good but pricey.
+1558,167,532,2,Good but pricey.
+1559,16,369,3,Nice sound quality.
+1560,657,464,4,Excellent phone!
+1561,112,360,3,Nice sound quality.
+1562,368,537,2,Great product!
+1563,102,369,5,Great product!
+1564,594,629,4,Nice sound quality.
+1565,406,406,2,Good but pricey.
+1566,982,557,4,Great product!
+1567,507,209,1,Excellent phone!
+1568,611,546,2,Good but pricey.
+1569,671,504,1,Great product!
+1570,40,315,3,Nice sound quality.
+1571,667,352,2,Good but pricey.
+1572,548,287,1,Good but pricey.
+1573,381,295,5,Great product!
+1574,759,431,3,Excellent phone!
+1575,516,628,2,Great product!
+1576,497,386,2,Great product!
+1577,886,650,5,Great product!
+1578,965,314,5,Great product!
+1579,281,474,1,Great product!
+1580,351,664,1,Nice sound quality.
+1581,334,229,1,Great product!
+1582,926,403,4,Excellent phone!
+1583,943,202,3,Good but pricey.
+1584,761,278,2,Nice sound quality.
+1585,524,524,3,Excellent phone!
+1586,283,431,5,Great product!
+1587,941,298,3,Excellent phone!
+1588,728,317,3,Good but pricey.
+1589,319,310,1,Excellent phone!
+1590,823,367,5,Great product!
+1591,414,657,3,Good but pricey.
+1592,594,688,2,Great product!
+1593,14,497,1,Great product!
+1594,56,655,3,Nice sound quality.
+1595,403,571,5,Good but pricey.
+1596,342,537,2,Good but pricey.
+1597,794,578,5,Great product!
+1598,199,287,5,Excellent phone!
+1599,860,693,5,Good but pricey.
+1600,678,659,4,Excellent phone!
+1601,965,222,2,Excellent phone!
+1602,292,410,5,Good but pricey.
+1603,658,505,4,Excellent phone!
+1604,441,612,1,Good but pricey.
+1605,78,472,4,Nice sound quality.
+1606,112,690,1,Good but pricey.
+1607,535,524,4,Good but pricey.
+1608,375,646,5,Good but pricey.
+1609,116,620,4,Nice sound quality.
+1610,142,478,4,Excellent phone!
+1611,992,339,5,Nice sound quality.
+1612,197,541,1,Excellent phone!
+1613,790,577,5,Good but pricey.
+1614,540,432,2,Good but pricey.
+1615,299,433,4,Nice sound quality.
+1616,76,280,2,Nice sound quality.
+1617,530,626,5,Nice sound quality.
+1618,100,255,5,Nice sound quality.
+1619,479,657,3,Good but pricey.
+1620,973,491,2,Good but pricey.
+1621,468,641,3,Great product!
+1622,636,234,2,Nice sound quality.
+1623,877,529,3,Nice sound quality.
+1624,292,533,3,Excellent phone!
+1625,125,654,2,Excellent phone!
+1626,519,588,5,Good but pricey.
+1627,23,452,1,Great product!
+1628,162,630,5,Nice sound quality.
+1629,629,676,1,Great product!
+1630,506,325,2,Great product!
+1631,882,211,4,Good but pricey.
+1632,864,682,5,Great product!
+1633,21,517,3,Nice sound quality.
+1634,764,322,5,Good but pricey.
+1635,838,235,2,Great product!
+1636,464,269,4,Good but pricey.
+1637,483,513,4,Good but pricey.
+1638,502,687,5,Excellent phone!
+1639,943,339,5,Good but pricey.
+1640,309,212,5,Great product!
+1641,596,325,2,Excellent phone!
+1642,874,499,1,Nice sound quality.
+1643,553,347,1,Nice sound quality.
+1644,203,277,3,Nice sound quality.
+1645,416,268,2,Nice sound quality.
+1646,640,406,4,Nice sound quality.
+1647,142,436,3,Great product!
+1648,856,259,4,Good but pricey.
+1649,615,458,4,Excellent phone!
+1650,107,454,5,Good but pricey.
+1651,991,592,4,Good but pricey.
+1652,529,606,4,Great product!
+1653,537,443,2,Great product!
+1654,576,661,5,Great product!
+1655,969,477,5,Excellent phone!
+1656,854,669,3,Great product!
+1657,887,420,5,Good but pricey.
+1658,749,425,1,Excellent phone!
+1659,688,613,2,Great product!
+1660,291,301,3,Great product!
+1661,805,542,1,Great product!
+1662,311,322,4,Good but pricey.
+1663,913,418,1,Great product!
+1664,668,275,3,Good but pricey.
+1665,385,531,5,Excellent phone!
+1666,53,437,2,Great product!
+1667,585,682,3,Nice sound quality.
+1668,183,539,1,Nice sound quality.
+1669,369,440,1,Good but pricey.
+1670,701,365,3,Great product!
+1671,13,534,3,Great product!
+1672,559,357,3,Nice sound quality.
+1673,960,411,5,Excellent phone!
+1674,160,621,3,Excellent phone!
+1675,284,477,4,Good but pricey.
+1676,565,416,2,Nice sound quality.
+1677,287,418,2,Good but pricey.
+1678,8,433,4,Good but pricey.
+1679,72,576,1,Excellent phone!
+1680,892,212,1,Nice sound quality.
+1681,98,632,1,Good but pricey.
+1682,87,283,1,Excellent phone!
+1683,842,631,5,Excellent phone!
+1684,101,313,4,Great product!
+1685,281,678,2,Nice sound quality.
+1686,883,471,4,Nice sound quality.
+1687,289,395,2,Great product!
+1688,749,569,1,Good but pricey.
+1689,196,341,5,Excellent phone!
+1690,391,643,3,Excellent phone!
+1691,609,657,3,Excellent phone!
+1692,450,324,1,Great product!
+1693,368,341,1,Excellent phone!
+1694,430,408,4,Good but pricey.
+1695,96,315,5,Good but pricey.
+1696,261,406,5,Great product!
+1697,512,656,4,Good but pricey.
+1698,121,603,5,Nice sound quality.
+1699,366,641,5,Nice sound quality.
+1700,785,488,3,Excellent phone!
+1701,332,555,5,Excellent phone!
+1702,52,543,1,Nice sound quality.
+1703,396,349,3,Good but pricey.
+1704,318,410,1,Great product!
+1705,675,312,1,Excellent phone!
+1706,702,342,4,Excellent phone!
+1707,277,664,5,Nice sound quality.
+1708,597,224,5,Nice sound quality.
+1709,194,249,5,Great product!
+1710,693,700,5,Excellent phone!
+1711,21,488,3,Good but pricey.
+1712,399,531,2,Good but pricey.
+1713,715,565,1,Nice sound quality.
+1714,202,211,2,Great product!
+1715,466,388,2,Nice sound quality.
+1716,151,268,2,Great product!
+1717,896,645,3,Good but pricey.
+1718,159,290,2,Great product!
+1719,310,310,3,Good but pricey.
+1720,951,589,4,Great product!
+1721,504,364,4,Nice sound quality.
+1722,26,681,4,Good but pricey.
+1723,821,648,3,Excellent phone!
+1724,66,406,3,Excellent phone!
+1725,935,232,1,Good but pricey.
+1726,263,527,2,Excellent phone!
+1727,472,274,5,Good but pricey.
+1728,167,451,5,Nice sound quality.
+1729,800,650,2,Nice sound quality.
+1730,154,594,5,Great product!
+1731,343,555,5,Excellent phone!
+1732,718,221,5,Excellent phone!
+1733,413,496,3,Excellent phone!
+1734,665,498,3,Good but pricey.
+1735,184,528,3,Nice sound quality.
+1736,671,502,2,Excellent phone!
+1737,194,538,4,Great product!
+1738,2,273,5,Excellent phone!
+1739,215,574,1,Great product!
+1740,687,241,3,Excellent phone!
+1741,587,294,1,Excellent phone!
+1742,797,332,5,Nice sound quality.
+1743,639,299,4,Great product!
+1744,483,598,1,Excellent phone!
+1745,561,598,5,Great product!
+1746,969,253,5,Great product!
+1747,32,696,3,Nice sound quality.
+1748,670,429,4,Nice sound quality.
+1749,15,328,5,Great product!
+1750,318,412,4,Nice sound quality.
+1751,846,485,3,Excellent phone!
+1752,243,479,1,Excellent phone!
+1753,17,695,2,Nice sound quality.
+1754,534,541,2,Great product!
+1755,756,359,2,Excellent phone!
+1756,926,552,4,Good but pricey.
+1757,81,433,2,Great product!
+1758,656,271,1,Great product!
+1759,436,405,5,Good but pricey.
+1760,8,389,4,Good but pricey.
+1761,960,351,1,Great product!
+1762,679,208,4,Good but pricey.
+1763,287,532,4,Nice sound quality.
+1764,780,300,4,Nice sound quality.
+1765,801,216,3,Great product!
+1766,186,354,5,Nice sound quality.
+1767,524,357,2,Excellent phone!
+1768,793,293,3,Nice sound quality.
+1769,422,462,5,Nice sound quality.
+1770,816,237,2,Good but pricey.
+1771,466,361,3,Nice sound quality.
+1772,83,551,3,Great product!
+1773,567,374,1,Nice sound quality.
+1774,643,517,3,Nice sound quality.
+1775,637,625,4,Great product!
+1776,483,218,3,Great product!
+1777,325,686,4,Good but pricey.
+1778,419,567,5,Excellent phone!
+1779,51,551,5,Nice sound quality.
+1780,27,216,4,Excellent phone!
+1781,677,560,1,Good but pricey.
+1782,981,635,1,Great product!
+1783,912,621,5,Great product!
+1784,988,470,3,Great product!
+1785,793,559,5,Good but pricey.
+1786,545,268,5,Nice sound quality.
+1787,62,230,4,Good but pricey.
+1788,657,516,1,Great product!
+1789,171,509,4,Nice sound quality.
+1790,286,425,5,Great product!
+1791,809,364,2,Great product!
+1792,117,614,3,Good but pricey.
+1793,4,520,5,Good but pricey.
+1794,66,214,4,Excellent phone!
+1795,60,479,2,Great product!
+1796,905,632,2,Nice sound quality.
+1797,502,356,5,Great product!
+1798,799,322,1,Nice sound quality.
+1799,857,463,2,Excellent phone!
+1800,229,370,3,Great product!
+1801,100,210,4,Nice sound quality.
+1802,119,652,4,Nice sound quality.
+1803,69,372,4,Excellent phone!
+1804,664,558,5,Good but pricey.
+1805,792,213,4,Excellent phone!
+1806,221,413,4,Nice sound quality.
+1807,941,361,3,Excellent phone!
+1808,223,432,1,Good but pricey.
+1809,677,676,5,Great product!
+1810,954,671,5,Excellent phone!
+1811,504,360,4,Excellent phone!
+1812,211,327,3,Great product!
+1813,791,248,2,Excellent phone!
+1814,931,461,4,Good but pricey.
+1815,575,261,4,Nice sound quality.
+1816,886,322,5,Excellent phone!
+1817,882,290,5,Great product!
+1818,262,559,4,Great product!
+1819,518,455,5,Excellent phone!
+1820,248,290,3,Great product!
+1821,741,203,2,Nice sound quality.
+1822,798,480,2,Nice sound quality.
+1823,257,317,2,Great product!
+1824,63,298,4,Excellent phone!
+1825,392,362,4,Excellent phone!
+1826,540,540,4,Great product!
+1827,857,575,3,Nice sound quality.
+1828,417,678,2,Nice sound quality.
+1829,53,498,5,Excellent phone!
+1830,764,604,5,Nice sound quality.
+1831,38,497,1,Good but pricey.
+1832,308,282,1,Nice sound quality.
+1833,846,558,5,Excellent phone!
+1834,651,348,2,Nice sound quality.
+1835,898,206,4,Nice sound quality.
+1836,53,578,5,Great product!
+1837,606,385,5,Good but pricey.
+1838,606,626,1,Great product!
+1839,452,452,2,Nice sound quality.
+1840,461,225,5,Nice sound quality.
+1841,775,241,4,Great product!
+1842,486,369,4,Good but pricey.
+1843,835,203,3,Excellent phone!
+1844,137,564,4,Great product!
+1845,974,371,5,Nice sound quality.
+1846,372,630,5,Nice sound quality.
+1847,959,257,4,Excellent phone!
+1848,256,283,1,Nice sound quality.
+1849,395,530,2,Nice sound quality.
+1850,37,379,5,Excellent phone!
+1851,654,333,4,Nice sound quality.
+1852,147,286,4,Nice sound quality.
+1853,8,657,5,Good but pricey.
+1854,251,553,3,Great product!
+1855,647,471,2,Good but pricey.
+1856,571,544,5,Good but pricey.
+1857,635,294,4,Nice sound quality.
+1858,447,582,3,Great product!
+1859,263,556,5,Great product!
+1860,632,450,2,Nice sound quality.
+1861,439,495,3,Good but pricey.
+1862,259,398,4,Good but pricey.
+1863,323,279,1,Good but pricey.
+1864,530,366,2,Great product!
+1865,301,239,3,Nice sound quality.
+1866,865,508,5,Great product!
+1867,485,414,5,Good but pricey.
+1868,92,331,3,Great product!
+1869,164,357,5,Great product!
+1870,656,677,3,Nice sound quality.
+1871,335,582,2,Nice sound quality.
+1872,925,359,5,Great product!
+1873,315,693,2,Excellent phone!
+1874,914,522,4,Nice sound quality.
+1875,945,427,4,Excellent phone!
+1876,238,245,4,Nice sound quality.
+1877,686,401,4,Good but pricey.
+1878,83,222,5,Excellent phone!
+1879,669,539,3,Good but pricey.
+1880,966,442,5,Good but pricey.
+1881,109,429,5,Great product!
+1882,178,594,2,Good but pricey.
+1883,250,438,3,Good but pricey.
+1884,765,349,1,Good but pricey.
+1885,567,473,1,Good but pricey.
+1886,667,267,3,Great product!
+1887,903,207,1,Great product!
+1888,91,433,3,Good but pricey.
+1889,339,557,2,Excellent phone!
+1890,638,492,2,Nice sound quality.
+1891,849,456,5,Excellent phone!
+1892,169,267,1,Good but pricey.
+1893,139,450,3,Great product!
+1894,517,277,2,Good but pricey.
+1895,578,689,5,Good but pricey.
+1896,623,614,1,Great product!
+1897,184,287,1,Excellent phone!
+1898,780,452,1,Nice sound quality.
+1899,170,655,2,Good but pricey.
+1900,362,422,2,Great product!
+1901,244,613,1,Nice sound quality.
+1902,843,272,2,Nice sound quality.
+1903,138,402,1,Nice sound quality.
+1904,28,617,4,Great product!
+1905,519,259,2,Good but pricey.
+1906,398,476,3,Great product!
+1907,333,421,2,Good but pricey.
+1908,965,357,1,Excellent phone!
+1909,317,381,3,Nice sound quality.
+1910,563,413,5,Good but pricey.
+1911,426,329,3,Excellent phone!
+1912,136,443,3,Great product!
+1913,690,618,2,Nice sound quality.
+1914,641,372,3,Good but pricey.
+1915,709,680,3,Nice sound quality.
+1916,267,565,1,Nice sound quality.
+1917,107,470,2,Nice sound quality.
+1918,560,621,1,Great product!
+1919,138,363,2,Nice sound quality.
+1920,911,643,5,Good but pricey.
+1921,615,224,3,Great product!
+1922,47,697,2,Excellent phone!
+1923,989,393,3,Good but pricey.
+1924,665,566,3,Great product!
+1925,368,590,4,Good but pricey.
+1926,6,697,1,Good but pricey.
+1927,523,652,2,Excellent phone!
+1928,529,494,5,Great product!
+1929,655,329,4,Nice sound quality.
+1930,272,241,1,Good but pricey.
+1931,824,231,5,Good but pricey.
+1932,66,236,5,Good but pricey.
+1933,420,657,3,Good but pricey.
+1934,339,561,1,Good but pricey.
+1935,934,453,4,Great product!
+1936,498,638,2,Good but pricey.
+1937,469,565,2,Good but pricey.
+1938,331,415,4,Good but pricey.
+1939,768,487,3,Nice sound quality.
+1940,639,456,3,Nice sound quality.
+1941,131,613,5,Great product!
+1942,994,569,1,Good but pricey.
+1943,530,669,5,Good but pricey.
+1944,719,587,2,Excellent phone!
+1945,601,386,4,Nice sound quality.
+1946,438,674,1,Excellent phone!
+1947,243,261,4,Good but pricey.
+1948,463,462,1,Good but pricey.
+1949,350,476,2,Excellent phone!
+1950,17,311,2,Great product!
+1951,466,517,1,Great product!
+1952,735,630,3,Excellent phone!
+1953,882,341,1,Good but pricey.
+1954,363,433,2,Excellent phone!
+1955,210,223,4,Nice sound quality.
+1956,611,279,5,Great product!
+1957,525,694,4,Excellent phone!
+1958,831,231,2,Great product!
+1959,782,204,4,Nice sound quality.
+1960,699,659,3,Good but pricey.
+1961,420,318,3,Good but pricey.
+1962,786,266,1,Good but pricey.
+1963,133,600,4,Great product!
+1964,14,571,4,Nice sound quality.
+1965,793,487,2,Excellent phone!
+1966,44,376,1,Good but pricey.
+1967,377,323,1,Great product!
+1968,295,431,4,Good but pricey.
+1969,396,243,5,Nice sound quality.
+1970,104,692,4,Excellent phone!
+1971,445,204,4,Good but pricey.
+1972,62,390,4,Nice sound quality.
+1973,565,504,3,Great product!
+1974,821,612,1,Nice sound quality.
+1975,412,450,3,Great product!
+1976,931,344,5,Good but pricey.
+1977,630,687,2,Good but pricey.
+1978,321,545,5,Nice sound quality.
+1979,131,582,1,Great product!
+1980,811,533,2,Nice sound quality.
+1981,818,653,5,Nice sound quality.
+1982,199,358,1,Good but pricey.
+1983,905,265,5,Good but pricey.
+1984,36,525,2,Good but pricey.
+1985,791,470,2,Nice sound quality.
+1986,216,275,5,Nice sound quality.
+1987,586,618,3,Excellent phone!
+1988,306,640,5,Excellent phone!
+1989,567,229,5,Nice sound quality.
+1990,893,666,5,Excellent phone!
+1991,12,535,3,Nice sound quality.
+1992,83,438,4,Good but pricey.
+1993,32,353,2,Great product!
+1994,408,294,1,Good but pricey.
+1995,86,437,2,Nice sound quality.
+1996,963,522,2,Good but pricey.
+1997,744,315,4,Nice sound quality.
+1998,411,496,2,Nice sound quality.
+1999,957,419,2,Excellent phone!
+2000,787,446,3,Nice sound quality.
+2001,713,697,3,Great product!
+2002,563,599,3,Excellent phone!
+2003,832,232,3,Great product!
+2004,256,220,3,Nice sound quality.
+2005,241,253,1,Good but pricey.
+2006,717,406,4,Nice sound quality.
+2007,898,419,5,Nice sound quality.
+2008,932,395,3,Good but pricey.
+2009,989,505,4,Good but pricey.
+2010,896,395,5,Great product!
+2011,907,661,2,Excellent phone!
+2012,994,545,2,Excellent phone!
+2013,708,282,4,Excellent phone!
+2014,452,201,1,Great product!
+2015,756,367,1,Great product!
+2016,832,517,4,Good but pricey.
+2017,1,383,1,Excellent phone!
+2018,601,653,1,Nice sound quality.
+2019,282,586,2,Great product!
+2020,651,550,1,Nice sound quality.
+2021,599,473,1,Excellent phone!
+2022,514,357,4,Excellent phone!
+2023,979,573,1,Great product!
+2024,861,562,3,Great product!
+2025,680,588,3,Good but pricey.
+2026,119,401,4,Nice sound quality.
+2027,900,392,3,Good but pricey.
+2028,505,541,2,Good but pricey.
+2029,80,499,4,Nice sound quality.
+2030,623,276,1,Excellent phone!
+2031,677,340,3,Nice sound quality.
+2032,894,506,2,Excellent phone!
+2033,957,396,4,Good but pricey.
+2034,219,261,4,Excellent phone!
+2035,517,676,1,Excellent phone!
+2036,911,657,5,Excellent phone!
+2037,727,560,3,Nice sound quality.
+2038,707,507,2,Excellent phone!
+2039,466,680,4,Nice sound quality.
+2040,794,533,3,Great product!
+2041,518,554,2,Great product!
+2042,891,283,2,Good but pricey.
+2043,812,534,4,Good but pricey.
+2044,502,205,3,Nice sound quality.
+2045,58,419,2,Excellent phone!
+2046,337,612,4,Excellent phone!
+2047,510,454,3,Great product!
+2048,814,674,3,Nice sound quality.
+2049,614,594,4,Excellent phone!
+2050,426,288,3,Excellent phone!
+2051,560,409,5,Nice sound quality.
+2052,370,380,2,Good but pricey.
+2053,411,408,2,Nice sound quality.
+2054,788,473,3,Nice sound quality.
+2055,966,265,4,Excellent phone!
+2056,883,580,1,Great product!
+2057,675,221,3,Excellent phone!
+2058,844,638,1,Excellent phone!
+2059,432,567,3,Excellent phone!
+2060,963,377,1,Nice sound quality.
+2061,196,563,3,Nice sound quality.
+2062,377,222,4,Excellent phone!
+2063,948,525,1,Excellent phone!
+2064,365,648,5,Great product!
+2065,836,236,4,Good but pricey.
+2066,644,450,3,Excellent phone!
+2067,935,349,1,Nice sound quality.
+2068,405,640,2,Good but pricey.
+2069,492,273,4,Good but pricey.
+2070,66,291,1,Great product!
+2071,912,376,4,Good but pricey.
+2072,391,326,1,Excellent phone!
+2073,83,404,2,Excellent phone!
+2074,481,602,5,Nice sound quality.
+2075,777,446,2,Excellent phone!
+2076,229,299,3,Excellent phone!
+2077,785,471,4,Great product!
+2078,731,698,5,Good but pricey.
+2079,225,244,4,Great product!
+2080,113,422,1,Good but pricey.
+2081,652,629,3,Great product!
+2082,185,297,3,Nice sound quality.
+2083,512,236,4,Great product!
+2084,173,368,3,Great product!
+2085,888,635,4,Nice sound quality.
+2086,523,230,1,Excellent phone!
+2087,909,482,1,Excellent phone!
+2088,671,285,4,Nice sound quality.
+2089,205,557,2,Nice sound quality.
+2090,742,691,2,Great product!
+2091,538,321,1,Nice sound quality.
+2092,319,487,5,Nice sound quality.
+2093,159,448,2,Good but pricey.
+2094,278,384,4,Good but pricey.
+2095,902,453,1,Excellent phone!
+2096,148,645,3,Nice sound quality.
+2097,981,473,3,Great product!
+2098,778,409,2,Excellent phone!
+2099,83,554,5,Excellent phone!
+2100,419,582,2,Excellent phone!
+2101,538,224,5,Nice sound quality.
+2102,583,322,2,Nice sound quality.
+2103,549,425,3,Great product!
+2104,392,588,5,Great product!
+2105,133,593,3,Excellent phone!
+2106,940,586,4,Nice sound quality.
+2107,996,619,4,Great product!
+2108,638,323,1,Good but pricey.
+2109,627,494,3,Good but pricey.
+2110,604,373,3,Excellent phone!
+2111,242,343,1,Good but pricey.
+2112,451,691,4,Excellent phone!
+2113,999,626,4,Nice sound quality.
+2114,200,587,5,Excellent phone!
+2115,719,615,5,Excellent phone!
+2116,117,636,4,Nice sound quality.
+2117,219,369,2,Great product!
+2118,305,257,3,Great product!
+2119,243,242,5,Great product!
+2120,292,509,2,Great product!
+2121,976,319,5,Excellent phone!
+2122,794,321,1,Great product!
+2123,301,512,3,Good but pricey.
+2124,829,451,5,Good but pricey.
+2125,684,543,4,Great product!
+2126,388,532,1,Good but pricey.
+2127,588,656,1,Good but pricey.
+2128,209,637,4,Nice sound quality.
+2129,314,541,1,Nice sound quality.
+2130,617,541,3,Great product!
+2131,26,616,5,Excellent phone!
+2132,863,537,1,Excellent phone!
+2133,79,382,3,Nice sound quality.
+2134,994,365,4,Nice sound quality.
+2135,128,672,5,Excellent phone!
+2136,413,464,4,Great product!
+2137,137,410,5,Excellent phone!
+2138,334,211,1,Excellent phone!
+2139,548,382,1,Good but pricey.
+2140,388,644,5,Excellent phone!
+2141,571,451,3,Nice sound quality.
+2142,230,338,3,Great product!
+2143,421,418,3,Excellent phone!
+2144,124,439,2,Good but pricey.
+2145,88,654,3,Nice sound quality.
+2146,849,571,1,Nice sound quality.
+2147,141,537,2,Good but pricey.
+2148,916,287,3,Nice sound quality.
+2149,785,498,1,Good but pricey.
+2150,51,493,2,Nice sound quality.
+2151,987,292,1,Nice sound quality.
+2152,567,408,5,Nice sound quality.
+2153,929,404,1,Nice sound quality.
+2154,405,386,2,Good but pricey.
+2155,337,285,3,Excellent phone!
+2156,662,515,2,Nice sound quality.
+2157,665,352,3,Good but pricey.
+2158,963,356,3,Good but pricey.
+2159,731,493,4,Good but pricey.
+2160,731,221,5,Excellent phone!
+2161,366,361,4,Great product!
+2162,908,586,2,Good but pricey.
+2163,911,685,4,Good but pricey.
+2164,998,539,3,Good but pricey.
+2165,980,356,2,Excellent phone!
+2166,854,343,4,Nice sound quality.
+2167,258,457,1,Excellent phone!
+2168,388,307,5,Good but pricey.
+2169,45,484,1,Great product!
+2170,269,250,2,Good but pricey.
+2171,311,235,4,Nice sound quality.
+2172,672,424,3,Great product!
+2173,278,356,4,Great product!
+2174,857,593,2,Excellent phone!
+2175,475,608,2,Excellent phone!
+2176,567,391,2,Nice sound quality.
+2177,145,588,2,Excellent phone!
+2178,966,384,4,Nice sound quality.
+2179,235,437,1,Great product!
+2180,691,497,3,Great product!
+2181,720,523,3,Great product!
+2182,136,504,5,Nice sound quality.
+2183,445,542,2,Excellent phone!
+2184,353,688,2,Excellent phone!
+2185,394,258,2,Excellent phone!
+2186,994,239,1,Good but pricey.
+2187,275,441,2,Great product!
+2188,384,225,5,Great product!
+2189,910,516,5,Good but pricey.
+2190,323,696,1,Great product!
+2191,183,317,2,Great product!
+2192,573,542,4,Good but pricey.
+2193,440,570,4,Great product!
+2194,63,440,3,Excellent phone!
+2195,873,375,1,Good but pricey.
+2196,727,682,4,Great product!
+2197,872,645,3,Excellent phone!
+2198,651,540,5,Nice sound quality.
+2199,943,428,3,Great product!
+2200,646,685,2,Good but pricey.
+2201,34,687,2,Excellent phone!
+2202,705,453,5,Nice sound quality.
+2203,867,611,1,Nice sound quality.
+2204,985,580,2,Great product!
+2205,832,311,2,Nice sound quality.
+2206,477,441,3,Good but pricey.
+2207,87,424,3,Nice sound quality.
+2208,210,498,3,Great product!
+2209,462,252,4,Nice sound quality.
+2210,81,421,5,Great product!
+2211,322,689,1,Nice sound quality.
+2212,415,504,3,Excellent phone!
+2213,851,488,1,Great product!
+2214,992,352,3,Good but pricey.
+2215,190,587,2,Good but pricey.
+2216,950,318,1,Nice sound quality.
+2217,860,611,4,Excellent phone!
+2218,233,657,3,Nice sound quality.
+2219,392,624,5,Nice sound quality.
+2220,938,479,2,Excellent phone!
+2221,169,335,3,Great product!
+2222,443,409,1,Good but pricey.
+2223,763,327,3,Excellent phone!
+2224,168,493,2,Nice sound quality.
+2225,231,207,5,Great product!
+2226,150,422,5,Nice sound quality.
+2227,664,277,5,Great product!
+2228,550,538,2,Good but pricey.
+2229,386,551,3,Good but pricey.
+2230,381,478,2,Great product!
+2231,809,534,2,Good but pricey.
+2232,275,538,3,Nice sound quality.
+2233,617,427,4,Great product!
+2234,898,601,5,Nice sound quality.
+2235,860,475,1,Great product!
+2236,864,551,1,Nice sound quality.
+2237,62,495,3,Good but pricey.
+2238,467,317,1,Excellent phone!
+2239,528,492,4,Nice sound quality.
+2240,862,471,2,Great product!
+2241,150,647,5,Good but pricey.
+2242,142,357,1,Great product!
+2243,116,260,1,Nice sound quality.
+2244,824,384,3,Great product!
+2245,65,624,3,Great product!
+2246,429,344,2,Nice sound quality.
+2247,310,361,5,Good but pricey.
+2248,706,289,1,Good but pricey.
+2249,854,216,2,Nice sound quality.
+2250,430,614,5,Good but pricey.
+2251,161,449,2,Excellent phone!
+2252,975,298,1,Great product!
+2253,306,650,3,Nice sound quality.
+2254,361,304,3,Excellent phone!
+2255,278,500,3,Great product!
+2256,296,435,4,Nice sound quality.
+2257,551,622,2,Good but pricey.
+2258,873,507,1,Nice sound quality.
+2259,169,644,2,Nice sound quality.
+2260,459,474,3,Great product!
+2261,580,461,2,Great product!
+2262,7,439,5,Great product!
+2263,597,624,2,Excellent phone!
+2264,711,462,4,Good but pricey.
+2265,132,532,4,Nice sound quality.
+2266,588,315,3,Nice sound quality.
+2267,762,468,1,Good but pricey.
+2268,347,212,5,Nice sound quality.
+2269,955,273,1,Great product!
+2270,721,562,1,Nice sound quality.
+2271,596,606,5,Good but pricey.
+2272,735,505,4,Excellent phone!
+2273,253,378,3,Excellent phone!
+2274,410,664,2,Good but pricey.
+2275,543,460,4,Nice sound quality.
+2276,355,634,3,Nice sound quality.
+2277,713,459,4,Excellent phone!
+2278,965,600,5,Nice sound quality.
+2279,564,470,1,Excellent phone!
+2280,368,520,5,Good but pricey.
+2281,584,320,2,Good but pricey.
+2282,511,369,5,Nice sound quality.
+2283,533,686,1,Great product!
+2284,528,268,4,Great product!
+2285,947,259,3,Excellent phone!
+2286,528,330,2,Good but pricey.
+2287,402,575,4,Excellent phone!
+2288,175,466,3,Good but pricey.
+2289,824,275,1,Excellent phone!
+2290,924,687,5,Excellent phone!
+2291,850,290,4,Excellent phone!
+2292,78,557,3,Nice sound quality.
+2293,440,354,3,Great product!
+2294,752,588,5,Good but pricey.
+2295,549,418,4,Excellent phone!
+2296,232,686,4,Great product!
+2297,400,228,1,Excellent phone!
+2298,213,330,4,Excellent phone!
+2299,193,266,5,Good but pricey.
+2300,572,344,4,Nice sound quality.
+2301,701,580,1,Excellent phone!
+2302,267,513,3,Good but pricey.
+2303,126,607,4,Nice sound quality.
+2304,715,607,5,Nice sound quality.
+2305,834,661,4,Great product!
+2306,382,477,2,Great product!
+2307,544,303,1,Excellent phone!
+2308,502,609,3,Great product!
+2309,403,514,2,Good but pricey.
+2310,824,237,5,Good but pricey.
+2311,261,449,4,Great product!
+2312,387,633,1,Good but pricey.
+2313,412,661,4,Good but pricey.
+2314,346,599,4,Excellent phone!
+2315,983,356,4,Excellent phone!
+2316,94,651,4,Good but pricey.
+2317,328,671,1,Great product!
+2318,100,332,2,Good but pricey.
+2319,797,247,5,Nice sound quality.
+2320,461,634,2,Nice sound quality.
+2321,315,644,1,Nice sound quality.
+2322,25,646,5,Excellent phone!
+2323,918,395,3,Great product!
+2324,494,303,2,Good but pricey.
+2325,353,528,1,Great product!
+2326,869,371,1,Great product!
+2327,117,289,1,Great product!
+2328,199,446,5,Nice sound quality.
+2329,279,258,4,Good but pricey.
+2330,582,305,3,Excellent phone!
+2331,847,380,5,Great product!
+2332,79,660,5,Great product!
+2333,424,269,2,Nice sound quality.
+2334,354,681,3,Nice sound quality.
+2335,526,502,1,Good but pricey.
+2336,541,353,5,Excellent phone!
+2337,656,225,3,Excellent phone!
+2338,477,577,2,Nice sound quality.
+2339,855,235,4,Good but pricey.
+2340,10,645,3,Great product!
+2341,559,215,1,Good but pricey.
+2342,503,306,5,Excellent phone!
+2343,260,418,4,Nice sound quality.
+2344,524,584,2,Great product!
+2345,810,274,1,Great product!
+2346,738,544,4,Excellent phone!
+2347,772,619,2,Great product!
+2348,596,485,1,Good but pricey.
+2349,860,238,5,Excellent phone!
+2350,860,397,2,Excellent phone!
+2351,6,480,4,Great product!
+2352,910,475,1,Excellent phone!
+2353,759,374,3,Nice sound quality.
+2354,35,505,1,Good but pricey.
+2355,175,244,4,Excellent phone!
+2356,442,657,4,Nice sound quality.
+2357,577,354,3,Great product!
+2358,147,353,4,Excellent phone!
+2359,569,491,1,Nice sound quality.
+2360,193,698,2,Great product!
+2361,13,620,1,Nice sound quality.
+2362,904,342,4,Great product!
+2363,530,456,3,Good but pricey.
+2364,246,512,3,Excellent phone!
+2365,675,334,5,Good but pricey.
+2366,855,232,3,Good but pricey.
+2367,114,226,3,Excellent phone!
+2368,794,599,4,Good but pricey.
+2369,233,455,2,Good but pricey.
+2370,678,633,2,Nice sound quality.
+2371,980,423,4,Great product!
+2372,322,256,3,Good but pricey.
+2373,538,493,1,Excellent phone!
+2374,126,325,2,Nice sound quality.
+2375,313,430,4,Great product!
+2376,511,253,1,Good but pricey.
+2377,484,642,3,Good but pricey.
+2378,281,301,4,Excellent phone!
+2379,798,667,2,Good but pricey.
+2380,978,534,1,Excellent phone!
+2381,903,492,1,Good but pricey.
+2382,283,557,2,Good but pricey.
+2383,651,467,1,Excellent phone!
+2384,613,483,2,Great product!
+2385,392,202,4,Nice sound quality.
+2386,523,222,5,Excellent phone!
+2387,382,266,3,Great product!
+2388,216,412,4,Great product!
+2389,542,436,3,Excellent phone!
+2390,606,568,3,Nice sound quality.
+2391,116,217,2,Excellent phone!
+2392,509,588,5,Good but pricey.
+2393,500,214,3,Good but pricey.
+2394,271,207,3,Great product!
+2395,440,535,4,Good but pricey.
+2396,291,422,5,Nice sound quality.
+2397,39,600,5,Excellent phone!
+2398,24,304,3,Nice sound quality.
+2399,776,650,5,Great product!
+2400,43,603,4,Good but pricey.
+2401,170,201,2,Good but pricey.
+2402,340,487,3,Excellent phone!
+2403,169,584,1,Nice sound quality.
+2404,815,447,3,Nice sound quality.
+2405,538,588,3,Excellent phone!
+2406,692,291,2,Good but pricey.
+2407,472,514,1,Great product!
+2408,662,512,1,Great product!
+2409,645,637,1,Excellent phone!
+2410,143,673,2,Excellent phone!
+2411,676,414,5,Excellent phone!
+2412,101,243,1,Nice sound quality.
+2413,575,274,5,Good but pricey.
+2414,605,442,4,Good but pricey.
+2415,719,681,2,Excellent phone!
+2416,475,249,5,Great product!
+2417,945,568,1,Nice sound quality.
+2418,311,564,1,Excellent phone!
+2419,584,516,5,Nice sound quality.
+2420,60,422,5,Excellent phone!
+2421,953,550,4,Nice sound quality.
+2422,29,344,2,Great product!
+2423,531,529,3,Great product!
+2424,991,409,4,Great product!
+2425,73,299,4,Great product!
+2426,394,388,4,Good but pricey.
+2427,869,314,1,Good but pricey.
+2428,394,375,5,Nice sound quality.
+2429,758,471,2,Excellent phone!
+2430,481,263,1,Good but pricey.
+2431,473,696,4,Excellent phone!
+2432,313,484,2,Nice sound quality.
+2433,438,604,1,Excellent phone!
+2434,952,425,3,Great product!
+2435,324,647,4,Great product!
+2436,965,361,1,Good but pricey.
+2437,87,236,1,Nice sound quality.
+2438,359,581,4,Good but pricey.
+2439,695,341,3,Good but pricey.
+2440,197,518,5,Good but pricey.
+2441,756,396,3,Nice sound quality.
+2442,840,351,4,Great product!
+2443,977,656,5,Great product!
+2444,385,469,1,Good but pricey.
+2445,118,544,3,Excellent phone!
+2446,498,240,3,Great product!
+2447,908,438,5,Great product!
+2448,931,614,1,Nice sound quality.
+2449,884,580,3,Great product!
+2450,462,422,5,Great product!
+2451,496,481,3,Good but pricey.
+2452,594,425,1,Good but pricey.
+2453,970,657,1,Nice sound quality.
+2454,247,354,2,Nice sound quality.
+2455,975,480,5,Excellent phone!
+2456,234,553,4,Great product!
+2457,417,239,3,Good but pricey.
+2458,467,417,1,Good but pricey.
+2459,482,444,3,Great product!
+2460,365,309,3,Nice sound quality.
+2461,153,663,4,Good but pricey.
+2462,272,261,1,Nice sound quality.
+2463,392,689,2,Good but pricey.
+2464,547,696,5,Good but pricey.
+2465,725,633,3,Excellent phone!
+2466,723,625,4,Good but pricey.
+2467,430,398,4,Great product!
+2468,651,476,5,Great product!
+2469,189,372,5,Great product!
+2470,812,472,1,Nice sound quality.
+2471,907,605,3,Good but pricey.
+2472,252,471,3,Nice sound quality.
+2473,395,623,5,Excellent phone!
+2474,662,242,2,Good but pricey.
+2475,853,389,3,Great product!
+2476,219,460,4,Excellent phone!
+2477,594,352,5,Excellent phone!
+2478,190,331,3,Good but pricey.
+2479,234,314,1,Great product!
+2480,688,585,5,Nice sound quality.
+2481,232,422,4,Good but pricey.
+2482,358,597,1,Great product!
+2483,478,254,5,Excellent phone!
+2484,575,538,5,Good but pricey.
+2485,947,496,3,Excellent phone!
+2486,429,583,1,Great product!
+2487,237,595,5,Nice sound quality.
+2488,33,242,4,Nice sound quality.
+2489,213,293,1,Excellent phone!
+2490,572,460,3,Excellent phone!
+2491,379,481,2,Excellent phone!
+2492,2,556,5,Good but pricey.
+2493,909,620,2,Great product!
+2494,450,392,5,Excellent phone!
+2495,569,325,3,Excellent phone!
+2496,427,628,3,Excellent phone!
+2497,813,496,3,Nice sound quality.
+2498,799,548,3,Excellent phone!
+2499,650,629,1,Great product!
+2500,279,592,1,Nice sound quality.
+2501,214,541,5,Great product!
+2502,751,235,1,Nice sound quality.
+2503,285,628,5,Nice sound quality.
+2504,993,602,1,Good but pricey.
+2505,543,247,1,Nice sound quality.
+2506,718,353,1,Nice sound quality.
+2507,970,438,4,Great product!
+2508,274,625,3,Great product!
+2509,11,205,4,Excellent phone!
+2510,871,648,1,Good but pricey.
+2511,47,646,1,Nice sound quality.
+2512,515,325,4,Good but pricey.
+2513,642,567,5,Excellent phone!
+2514,438,528,3,Good but pricey.
+2515,584,287,5,Nice sound quality.
+2516,671,203,3,Great product!
+2517,904,692,2,Good but pricey.
+2518,427,365,3,Nice sound quality.
+2519,432,423,5,Excellent phone!
+2520,130,549,3,Nice sound quality.
+2521,22,497,2,Good but pricey.
+2522,892,604,2,Nice sound quality.
+2523,389,651,1,Nice sound quality.
+2524,135,543,2,Good but pricey.
+2525,532,624,4,Good but pricey.
+2526,220,541,5,Excellent phone!
+2527,333,661,4,Nice sound quality.
+2528,130,592,4,Great product!
+2529,32,589,5,Good but pricey.
+2530,602,225,4,Nice sound quality.
+2531,771,239,4,Great product!
+2532,425,621,4,Great product!
+2533,298,581,2,Nice sound quality.
+2534,504,305,5,Nice sound quality.
+2535,845,205,5,Nice sound quality.
+2536,761,336,5,Great product!
+2537,981,692,4,Nice sound quality.
+2538,685,204,2,Good but pricey.
+2539,357,369,5,Great product!
+2540,983,516,3,Good but pricey.
+2541,455,510,5,Good but pricey.
+2542,401,606,1,Nice sound quality.
+2543,988,278,3,Good but pricey.
+2544,896,219,5,Nice sound quality.
+2545,559,405,4,Great product!
+2546,990,555,5,Good but pricey.
+2547,709,524,2,Nice sound quality.
+2548,920,233,2,Excellent phone!
+2549,455,350,5,Nice sound quality.
+2550,891,393,4,Excellent phone!
+2551,34,339,4,Nice sound quality.
+2552,766,472,4,Excellent phone!
+2553,248,396,5,Good but pricey.
+2554,946,327,5,Excellent phone!
+2555,42,549,1,Good but pricey.
+2556,801,431,2,Good but pricey.
+2557,123,244,3,Nice sound quality.
+2558,27,430,3,Good but pricey.
+2559,462,416,2,Great product!
+2560,571,444,1,Excellent phone!
+2561,147,209,2,Nice sound quality.
+2562,496,450,1,Good but pricey.
+2563,627,400,1,Excellent phone!
+2564,486,534,4,Excellent phone!
+2565,460,279,2,Great product!
+2566,899,445,3,Excellent phone!
+2567,711,390,5,Nice sound quality.
+2568,128,286,5,Nice sound quality.
+2569,376,685,2,Good but pricey.
+2570,995,471,5,Good but pricey.
+2571,665,462,1,Nice sound quality.
+2572,881,201,5,Excellent phone!
+2573,783,220,1,Excellent phone!
+2574,851,689,1,Great product!
+2575,956,620,3,Good but pricey.
+2576,83,330,5,Excellent phone!
+2577,535,526,3,Excellent phone!
+2578,523,458,5,Good but pricey.
+2579,699,331,1,Nice sound quality.
+2580,981,207,5,Excellent phone!
+2581,628,540,3,Great product!
+2582,674,441,4,Excellent phone!
+2583,103,392,3,Excellent phone!
+2584,755,625,4,Great product!
+2585,519,510,2,Nice sound quality.
+2586,362,497,3,Great product!
+2587,684,315,5,Great product!
+2588,256,589,4,Good but pricey.
+2589,247,673,5,Excellent phone!
+2590,987,302,4,Nice sound quality.
+2591,192,538,3,Excellent phone!
+2592,626,519,3,Nice sound quality.
+2593,535,201,5,Great product!
+2594,870,225,3,Good but pricey.
+2595,314,409,5,Great product!
+2596,276,630,1,Excellent phone!
+2597,923,343,4,Good but pricey.
+2598,373,397,5,Good but pricey.
+2599,444,345,4,Excellent phone!
+2600,648,349,1,Nice sound quality.
+2601,869,381,4,Good but pricey.
+2602,195,255,5,Nice sound quality.
+2603,258,671,3,Nice sound quality.
+2604,790,563,4,Nice sound quality.
+2605,582,338,4,Good but pricey.
+2606,871,409,1,Great product!
+2607,360,385,2,Good but pricey.
+2608,548,265,3,Great product!
+2609,108,237,5,Good but pricey.
+2610,24,312,1,Great product!
+2611,652,463,5,Great product!
+2612,465,276,5,Good but pricey.
+2613,22,496,4,Nice sound quality.
+2614,502,378,1,Nice sound quality.
+2615,851,454,1,Great product!
+2616,841,201,3,Excellent phone!
+2617,716,348,2,Excellent phone!
+2618,892,564,5,Good but pricey.
+2619,736,359,3,Good but pricey.
+2620,501,524,3,Good but pricey.
+2621,735,674,5,Excellent phone!
+2622,593,468,4,Nice sound quality.
+2623,407,350,4,Good but pricey.
+2624,330,329,5,Good but pricey.
+2625,703,326,1,Nice sound quality.
+2626,286,201,2,Great product!
+2627,147,587,4,Good but pricey.
+2628,794,317,2,Excellent phone!
+2629,986,660,3,Excellent phone!
+2630,384,349,3,Good but pricey.
+2631,11,469,5,Excellent phone!
+2632,276,389,5,Nice sound quality.
+2633,886,341,5,Great product!
+2634,568,305,4,Great product!
+2635,685,666,2,Good but pricey.
+2636,964,452,3,Good but pricey.
+2637,303,617,2,Great product!
+2638,204,590,4,Great product!
+2639,345,481,2,Good but pricey.
+2640,760,607,2,Excellent phone!
+2641,826,544,5,Good but pricey.
+2642,266,301,2,Nice sound quality.
+2643,22,482,2,Good but pricey.
+2644,839,588,2,Good but pricey.
+2645,536,558,1,Good but pricey.
+2646,706,363,3,Good but pricey.
+2647,96,697,3,Good but pricey.
+2648,981,403,2,Good but pricey.
+2649,445,300,5,Excellent phone!
+2650,263,481,5,Good but pricey.
+2651,584,604,5,Great product!
+2652,755,457,3,Good but pricey.
+2653,383,294,4,Excellent phone!
+2654,550,524,2,Nice sound quality.
+2655,917,479,3,Great product!
+2656,392,427,5,Good but pricey.
+2657,889,562,3,Good but pricey.
+2658,601,350,3,Great product!
+2659,540,551,3,Good but pricey.
+2660,92,262,5,Excellent phone!
+2661,566,329,4,Good but pricey.
+2662,159,387,1,Nice sound quality.
+2663,884,268,2,Excellent phone!
+2664,228,603,2,Good but pricey.
+2665,473,230,3,Nice sound quality.
+2666,372,585,4,Great product!
+2667,376,504,5,Excellent phone!
+2668,553,475,1,Good but pricey.
+2669,37,327,1,Good but pricey.
+2670,637,636,3,Great product!
+2671,934,413,3,Great product!
+2672,691,606,5,Excellent phone!
+2673,844,506,5,Excellent phone!
+2674,37,650,5,Excellent phone!
+2675,101,334,3,Good but pricey.
+2676,543,648,4,Good but pricey.
+2677,190,605,3,Excellent phone!
+2678,512,681,3,Good but pricey.
+2679,658,603,1,Great product!
+2680,90,419,5,Nice sound quality.
+2681,6,621,2,Good but pricey.
+2682,905,519,5,Excellent phone!
+2683,139,357,4,Good but pricey.
+2684,95,388,4,Great product!
+2685,631,676,5,Excellent phone!
+2686,878,362,5,Nice sound quality.
+2687,632,329,3,Excellent phone!
+2688,386,504,2,Excellent phone!
+2689,123,289,3,Excellent phone!
+2690,285,583,1,Good but pricey.
+2691,366,605,1,Nice sound quality.
+2692,889,362,4,Great product!
+2693,691,610,4,Good but pricey.
+2694,490,236,2,Nice sound quality.
+2695,325,427,4,Nice sound quality.
+2696,407,351,1,Good but pricey.
+2697,996,281,2,Excellent phone!
+2698,519,247,1,Nice sound quality.
+2699,896,690,5,Great product!
+2700,824,404,5,Good but pricey.
+2701,639,628,2,Nice sound quality.
+2702,77,348,3,Great product!
+2703,234,431,4,Great product!
+2704,830,227,2,Great product!
+2705,586,690,4,Great product!
+2706,484,389,1,Good but pricey.
+2707,464,365,3,Great product!
+2708,271,412,4,Good but pricey.
+2709,821,508,5,Great product!
+2710,939,275,5,Great product!
+2711,467,292,1,Good but pricey.
+2712,469,262,2,Excellent phone!
+2713,632,266,4,Nice sound quality.
+2714,547,608,1,Nice sound quality.
+2715,719,280,5,Good but pricey.
+2716,270,340,5,Great product!
+2717,605,600,5,Good but pricey.
+2718,965,620,3,Great product!
+2719,378,330,3,Good but pricey.
+2720,177,673,5,Nice sound quality.
+2721,274,454,2,Good but pricey.
+2722,691,646,3,Nice sound quality.
+2723,641,520,4,Nice sound quality.
+2724,637,229,3,Nice sound quality.
+2725,27,676,4,Good but pricey.
+2726,576,402,3,Excellent phone!
+2727,60,437,5,Good but pricey.
+2728,731,287,4,Good but pricey.
+2729,217,296,2,Excellent phone!
+2730,681,487,3,Excellent phone!
+2731,661,539,3,Nice sound quality.
+2732,270,599,5,Great product!
+2733,116,639,4,Great product!
+2734,245,489,5,Nice sound quality.
+2735,660,452,4,Good but pricey.
+2736,604,665,3,Great product!
+2737,85,380,3,Good but pricey.
+2738,599,300,3,Excellent phone!
+2739,907,604,3,Excellent phone!
+2740,632,273,1,Nice sound quality.
+2741,450,622,3,Good but pricey.
+2742,852,331,3,Nice sound quality.
+2743,536,382,4,Great product!
+2744,887,394,3,Great product!
+2745,89,218,3,Great product!
+2746,549,671,4,Good but pricey.
+2747,854,326,3,Nice sound quality.
+2748,895,411,3,Nice sound quality.
+2749,507,207,5,Great product!
+2750,408,619,1,Nice sound quality.
+2751,271,580,4,Excellent phone!
+2752,524,314,5,Excellent phone!
+2753,494,540,2,Excellent phone!
+2754,607,284,2,Excellent phone!
+2755,448,539,1,Nice sound quality.
+2756,543,561,2,Excellent phone!
+2757,949,664,1,Excellent phone!
+2758,350,302,2,Excellent phone!
+2759,745,669,2,Excellent phone!
+2760,852,293,5,Excellent phone!
+2761,328,692,2,Good but pricey.
+2762,812,516,1,Good but pricey.
+2763,286,302,3,Excellent phone!
+2764,35,693,3,Excellent phone!
+2765,533,451,3,Nice sound quality.
+2766,623,224,1,Excellent phone!
+2767,488,685,1,Great product!
+2768,831,677,3,Good but pricey.
+2769,860,679,2,Excellent phone!
+2770,487,565,3,Good but pricey.
+2771,145,700,4,Excellent phone!
+2772,524,367,1,Great product!
+2773,756,340,4,Excellent phone!
+2774,146,294,4,Good but pricey.
+2775,751,381,1,Good but pricey.
+2776,503,264,3,Good but pricey.
+2777,604,204,5,Nice sound quality.
+2778,828,294,4,Good but pricey.
+2779,835,589,3,Excellent phone!
+2780,627,472,5,Great product!
+2781,527,483,4,Great product!
+2782,272,332,3,Excellent phone!
+2783,534,272,4,Nice sound quality.
+2784,630,504,3,Excellent phone!
+2785,881,592,2,Good but pricey.
+2786,95,281,2,Nice sound quality.
+2787,447,374,1,Excellent phone!
+2788,415,500,5,Nice sound quality.
+2789,257,651,4,Great product!
+2790,843,675,4,Excellent phone!
+2791,262,252,3,Excellent phone!
+2792,87,490,5,Great product!
+2793,905,646,4,Nice sound quality.
+2794,436,437,5,Great product!
+2795,976,477,5,Nice sound quality.
+2796,830,691,2,Excellent phone!
+2797,570,480,4,Nice sound quality.
+2798,742,244,4,Nice sound quality.
+2799,108,570,1,Good but pricey.
+2800,19,454,5,Good but pricey.
+2801,365,625,3,Good but pricey.
+2802,653,613,2,Great product!
+2803,379,559,1,Great product!
+2804,160,334,2,Good but pricey.
+2805,100,256,3,Excellent phone!
+2806,265,214,1,Excellent phone!
+2807,750,378,2,Excellent phone!
+2808,750,662,3,Great product!
+2809,49,301,1,Nice sound quality.
+2810,677,380,3,Great product!
+2811,799,672,1,Good but pricey.
+2812,415,661,4,Nice sound quality.
+2813,59,457,4,Excellent phone!
+2814,183,468,2,Great product!
+2815,659,571,5,Great product!
+2816,447,562,5,Good but pricey.
+2817,898,608,3,Excellent phone!
+2818,301,237,1,Great product!
+2819,608,668,4,Great product!
+2820,555,654,5,Nice sound quality.
+2821,354,404,4,Great product!
+2822,769,669,3,Nice sound quality.
+2823,213,459,3,Great product!
+2824,189,355,1,Excellent phone!
+2825,643,438,5,Good but pricey.
+2826,347,509,3,Excellent phone!
+2827,812,300,3,Good but pricey.
+2828,903,473,4,Great product!
+2829,801,313,2,Excellent phone!
+2830,137,310,5,Nice sound quality.
+2831,30,343,1,Good but pricey.
+2832,146,367,1,Good but pricey.
+2833,824,460,4,Great product!
+2834,986,345,1,Good but pricey.
+2835,468,430,3,Good but pricey.
+2836,998,595,5,Good but pricey.
+2837,617,468,1,Great product!
+2838,503,695,5,Excellent phone!
+2839,799,232,1,Great product!
+2840,968,611,2,Nice sound quality.
+2841,191,628,2,Good but pricey.
+2842,471,499,5,Good but pricey.
+2843,690,419,2,Excellent phone!
+2844,345,377,2,Good but pricey.
+2845,751,304,3,Excellent phone!
+2846,1,436,1,Good but pricey.
+2847,110,293,2,Good but pricey.
+2848,850,401,5,Great product!
+2849,787,499,3,Great product!
+2850,883,587,2,Nice sound quality.
+2851,894,431,5,Excellent phone!
+2852,746,613,1,Nice sound quality.
+2853,64,455,2,Great product!
+2854,756,285,5,Excellent phone!
+2855,53,235,5,Great product!
+2856,262,317,4,Excellent phone!
+2857,529,376,5,Good but pricey.
+2858,302,658,4,Nice sound quality.
+2859,968,671,1,Nice sound quality.
+2860,886,623,1,Excellent phone!
+2861,234,673,3,Nice sound quality.
+2862,73,608,4,Great product!
+2863,357,476,5,Nice sound quality.
+2864,951,599,3,Excellent phone!
+2865,603,285,3,Nice sound quality.
+2866,484,317,1,Nice sound quality.
+2867,6,562,5,Great product!
+2868,710,404,4,Good but pricey.
+2869,877,346,1,Great product!
+2870,708,644,3,Nice sound quality.
+2871,982,415,2,Nice sound quality.
+2872,808,305,3,Good but pricey.
+2873,859,549,2,Good but pricey.
+2874,997,497,1,Great product!
+2875,834,556,4,Good but pricey.
+2876,137,269,5,Great product!
+2877,779,687,2,Excellent phone!
+2878,404,674,5,Nice sound quality.
+2879,628,455,1,Good but pricey.
+2880,555,431,1,Excellent phone!
+2881,743,403,1,Excellent phone!
+2882,570,562,4,Great product!
+2883,206,595,2,Great product!
+2884,410,448,5,Good but pricey.
+2885,806,640,3,Great product!
+2886,606,602,1,Excellent phone!
+2887,36,596,5,Excellent phone!
+2888,230,449,5,Nice sound quality.
+2889,227,344,4,Excellent phone!
+2890,695,483,2,Good but pricey.
+2891,262,556,4,Nice sound quality.
+2892,131,601,4,Great product!
+2893,577,441,5,Nice sound quality.
+2894,892,541,2,Excellent phone!
+2895,448,575,2,Good but pricey.
+2896,186,429,2,Great product!
+2897,629,231,1,Great product!
+2898,186,309,2,Excellent phone!
+2899,274,619,5,Good but pricey.
+2900,663,227,1,Excellent phone!
+2901,352,543,3,Excellent phone!
+2902,413,360,4,Good but pricey.
+2903,151,217,2,Excellent phone!
+2904,384,467,3,Good but pricey.
+2905,36,329,2,Good but pricey.
+2906,326,420,4,Excellent phone!
+2907,465,282,5,Excellent phone!
+2908,466,249,5,Nice sound quality.
+2909,95,241,4,Great product!
+2910,134,220,3,Great product!
+2911,162,527,1,Good but pricey.
+2912,556,237,1,Nice sound quality.
+2913,300,582,2,Good but pricey.
+2914,795,600,4,Nice sound quality.
+2915,356,239,4,Good but pricey.
+2916,240,309,1,Great product!
+2917,564,629,3,Nice sound quality.
+2918,938,264,4,Excellent phone!
+2919,793,375,5,Excellent phone!
+2920,586,479,5,Great product!
+2921,807,232,4,Nice sound quality.
+2922,750,633,3,Excellent phone!
+2923,167,409,5,Excellent phone!
+2924,140,579,3,Excellent phone!
+2925,139,219,1,Great product!
+2926,881,306,2,Good but pricey.
+2927,235,682,1,Excellent phone!
+2928,3,406,2,Excellent phone!
+2929,256,447,5,Good but pricey.
+2930,371,523,2,Excellent phone!
+2931,278,367,2,Nice sound quality.
+2932,516,289,4,Excellent phone!
+2933,904,516,2,Good but pricey.
+2934,782,211,4,Great product!
+2935,212,249,2,Great product!
+2936,216,599,4,Nice sound quality.
+2937,270,584,5,Excellent phone!
+2938,476,667,5,Excellent phone!
+2939,528,261,2,Good but pricey.
+2940,928,371,3,Good but pricey.
+2941,64,343,5,Nice sound quality.
+2942,751,407,1,Nice sound quality.
+2943,460,686,1,Excellent phone!
+2944,16,663,4,Excellent phone!
+2945,564,401,3,Nice sound quality.
+2946,19,205,4,Great product!
+2947,325,411,2,Great product!
+2948,908,672,5,Great product!
+2949,93,229,3,Great product!
+2950,773,390,4,Nice sound quality.
+2951,810,388,4,Good but pricey.
+2952,17,525,1,Great product!
+2953,623,455,2,Nice sound quality.
+2954,840,350,4,Great product!
+2955,872,213,1,Excellent phone!
+2956,488,634,3,Great product!
+2957,94,572,4,Nice sound quality.
+2958,10,697,1,Excellent phone!
+2959,724,631,2,Excellent phone!
+2960,749,566,5,Great product!
+2961,766,357,3,Great product!
+2962,528,280,4,Excellent phone!
+2963,489,556,1,Good but pricey.
+2964,144,473,4,Nice sound quality.
+2965,554,348,5,Nice sound quality.
+2966,515,406,4,Nice sound quality.
+2967,919,314,4,Nice sound quality.
+2968,470,206,1,Nice sound quality.
+2969,377,478,5,Excellent phone!
+2970,668,432,3,Nice sound quality.
+2971,494,337,1,Good but pricey.
+2972,685,360,5,Good but pricey.
+2973,484,544,5,Great product!
+2974,452,489,4,Great product!
+2975,998,405,2,Great product!
+2976,536,683,2,Great product!
+2977,787,526,3,Excellent phone!
+2978,75,505,4,Good but pricey.
+2979,40,560,2,Excellent phone!
+2980,302,358,1,Good but pricey.
+2981,552,558,3,Excellent phone!
+2982,62,600,4,Good but pricey.
+2983,750,649,1,Great product!
+2984,503,306,2,Good but pricey.
+2985,999,282,2,Great product!
+2986,245,542,2,Good but pricey.
+2987,18,674,2,Excellent phone!
+2988,652,470,5,Nice sound quality.
+2989,398,640,3,Good but pricey.
+2990,594,621,3,Excellent phone!
+2991,189,249,2,Nice sound quality.
+2992,620,406,3,Excellent phone!
+2993,746,418,1,Nice sound quality.
+2994,780,506,1,Great product!
+2995,104,364,3,Good but pricey.
+2996,923,636,2,Excellent phone!
+2997,646,479,4,Good but pricey.
+2998,344,522,2,Great product!
+2999,371,431,5,Great product!
+3000,33,399,4,Good but pricey.
+3001,749,687,5,Excellent phone!
+3002,374,629,3,Excellent phone!
+3003,848,571,5,Excellent phone!
+3004,178,414,3,Good but pricey.
+3005,12,484,5,Excellent phone!
+3006,863,686,4,Excellent phone!
+3007,953,476,5,Nice sound quality.
+3008,741,633,2,Excellent phone!
+3009,821,385,3,Great product!
+3010,781,410,1,Excellent phone!
+3011,890,321,5,Good but pricey.
+3012,456,416,3,Good but pricey.
+3013,870,297,1,Excellent phone!
+3014,643,643,3,Good but pricey.
+3015,249,319,3,Good but pricey.
+3016,448,565,1,Excellent phone!
+3017,980,482,1,Nice sound quality.
+3018,570,603,4,Nice sound quality.
+3019,4,696,5,Nice sound quality.
+3020,236,306,5,Nice sound quality.
+3021,173,597,3,Great product!
+3022,322,658,2,Excellent phone!
+3023,371,518,2,Good but pricey.
+3024,548,582,3,Good but pricey.
+3025,791,342,4,Excellent phone!
+3026,749,657,1,Good but pricey.
+3027,787,595,3,Great product!
+3028,296,523,5,Nice sound quality.
+3029,840,688,2,Excellent phone!
+3030,400,468,2,Good but pricey.
+3031,58,491,2,Great product!
+3032,875,687,4,Good but pricey.
+3033,530,566,5,Great product!
+3034,548,367,4,Good but pricey.
+3035,408,360,1,Nice sound quality.
+3036,641,431,3,Excellent phone!
+3037,513,214,3,Nice sound quality.
+3038,64,692,2,Nice sound quality.
+3039,574,393,2,Good but pricey.
+3040,878,355,1,Nice sound quality.
+3041,420,301,4,Excellent phone!
+3042,843,260,5,Great product!
+3043,146,243,1,Great product!
+3044,272,393,3,Good but pricey.
+3045,17,511,3,Excellent phone!
+3046,792,309,4,Excellent phone!
+3047,98,293,1,Great product!
+3048,452,416,5,Great product!
+3049,739,665,1,Nice sound quality.
+3050,975,363,1,Good but pricey.
+3051,898,551,4,Great product!
+3052,243,434,5,Great product!
+3053,479,616,3,Excellent phone!
+3054,201,603,2,Excellent phone!
+3055,906,551,5,Excellent phone!
+3056,949,367,3,Great product!
+3057,473,348,4,Good but pricey.
+3058,179,228,5,Nice sound quality.
+3059,508,459,5,Good but pricey.
+3060,453,616,3,Great product!
+3061,270,286,3,Nice sound quality.
+3062,234,308,1,Good but pricey.
+3063,624,642,1,Great product!
+3064,486,638,5,Good but pricey.
+3065,1000,626,2,Great product!
+3066,578,317,4,Excellent phone!
+3067,338,564,3,Good but pricey.
+3068,861,215,1,Excellent phone!
+3069,949,686,4,Excellent phone!
+3070,757,411,5,Nice sound quality.
+3071,757,518,3,Nice sound quality.
+3072,980,231,3,Good but pricey.
+3073,448,645,1,Great product!
+3074,584,482,2,Nice sound quality.
+3075,357,653,3,Nice sound quality.
+3076,49,385,2,Excellent phone!
+3077,496,604,4,Excellent phone!
+3078,346,266,3,Great product!
+3079,702,605,3,Nice sound quality.
+3080,293,571,2,Nice sound quality.
+3081,689,516,1,Great product!
+3082,964,263,5,Nice sound quality.
+3083,673,635,4,Good but pricey.
+3084,150,428,3,Good but pricey.
+3085,582,676,1,Great product!
+3086,545,668,3,Excellent phone!
+3087,796,301,4,Great product!
+3088,856,623,5,Good but pricey.
+3089,260,556,3,Nice sound quality.
+3090,322,339,2,Nice sound quality.
+3091,77,319,1,Excellent phone!
+3092,110,257,5,Excellent phone!
+3093,817,331,3,Good but pricey.
+3094,896,237,5,Excellent phone!
+3095,651,668,2,Great product!
+3096,547,680,3,Good but pricey.
+3097,423,311,5,Nice sound quality.
+3098,394,353,3,Nice sound quality.
+3099,235,605,3,Nice sound quality.
+3100,330,450,5,Excellent phone!
+3101,712,442,3,Good but pricey.
+3102,325,408,2,Excellent phone!
+3103,151,568,5,Great product!
+3104,546,370,5,Good but pricey.
+3105,636,457,2,Excellent phone!
+3106,879,479,2,Nice sound quality.
+3107,32,563,2,Nice sound quality.
+3108,272,313,3,Great product!
+3109,836,608,3,Great product!
+3110,822,375,4,Great product!
+3111,636,289,3,Nice sound quality.
+3112,924,335,2,Excellent phone!
+3113,368,494,4,Nice sound quality.
+3114,492,695,2,Nice sound quality.
+3115,316,503,1,Nice sound quality.
+3116,590,559,5,Excellent phone!
+3117,588,619,1,Nice sound quality.
+3118,572,406,2,Great product!
+3119,597,518,3,Great product!
+3120,368,273,5,Great product!
+3121,80,459,3,Great product!
+3122,886,558,3,Nice sound quality.
+3123,172,348,5,Nice sound quality.
+3124,258,689,5,Nice sound quality.
+3125,279,425,1,Great product!
+3126,504,305,2,Excellent phone!
+3127,733,244,3,Good but pricey.
+3128,558,616,2,Good but pricey.
+3129,491,556,2,Good but pricey.
+3130,585,226,4,Excellent phone!
+3131,566,504,1,Nice sound quality.
+3132,839,461,3,Good but pricey.
+3133,733,259,5,Good but pricey.
+3134,893,261,5,Nice sound quality.
+3135,337,505,2,Good but pricey.
+3136,521,614,1,Nice sound quality.
+3137,326,601,1,Good but pricey.
+3138,172,270,3,Nice sound quality.
+3139,84,642,3,Great product!
+3140,842,647,2,Excellent phone!
+3141,841,645,2,Good but pricey.
+3142,524,647,2,Nice sound quality.
+3143,481,471,4,Great product!
+3144,544,457,1,Nice sound quality.
+3145,418,597,2,Good but pricey.
+3146,339,632,1,Good but pricey.
+3147,801,584,5,Good but pricey.
+3148,320,618,5,Good but pricey.
+3149,304,325,1,Good but pricey.
+3150,272,614,5,Great product!
+3151,690,219,5,Nice sound quality.
+3152,114,319,5,Nice sound quality.
+3153,407,520,3,Good but pricey.
+3154,26,266,3,Nice sound quality.
+3155,237,445,1,Great product!
+3156,310,257,1,Good but pricey.
+3157,684,244,4,Excellent phone!
+3158,233,212,3,Great product!
+3159,549,578,1,Good but pricey.
+3160,265,624,3,Nice sound quality.
+3161,990,436,4,Great product!
+3162,13,224,1,Good but pricey.
+3163,496,595,1,Nice sound quality.
+3164,316,650,1,Nice sound quality.
+3165,618,457,1,Good but pricey.
+3166,638,642,2,Great product!
+3167,848,484,3,Good but pricey.
+3168,384,524,3,Good but pricey.
+3169,642,561,3,Good but pricey.
+3170,991,451,4,Good but pricey.
+3171,316,294,2,Good but pricey.
+3172,256,580,3,Nice sound quality.
+3173,441,643,3,Good but pricey.
+3174,115,655,1,Great product!
+3175,299,580,1,Excellent phone!
+3176,915,222,1,Good but pricey.
+3177,124,674,3,Great product!
+3178,256,357,1,Excellent phone!
+3179,651,289,3,Great product!
+3180,718,402,4,Nice sound quality.
+3181,47,668,4,Nice sound quality.
+3182,729,662,5,Excellent phone!
+3183,831,681,2,Excellent phone!
+3184,903,397,1,Excellent phone!
+3185,463,245,1,Nice sound quality.
+3186,350,654,2,Nice sound quality.
+3187,123,670,2,Great product!
+3188,31,580,5,Nice sound quality.
+3189,984,601,2,Excellent phone!
+3190,55,279,3,Good but pricey.
+3191,153,239,1,Good but pricey.
+3192,456,624,2,Excellent phone!
+3193,286,484,3,Nice sound quality.
+3194,36,586,2,Excellent phone!
+3195,818,666,3,Nice sound quality.
+3196,910,355,4,Good but pricey.
+3197,797,349,3,Great product!
+3198,923,543,5,Nice sound quality.
+3199,885,591,3,Great product!
+3200,256,645,2,Good but pricey.
+3201,178,252,4,Great product!
+3202,548,451,4,Great product!
+3203,254,632,3,Excellent phone!
+3204,508,582,2,Great product!
+3205,674,347,4,Good but pricey.
+3206,21,529,3,Nice sound quality.
+3207,806,596,3,Great product!
+3208,75,694,3,Nice sound quality.
+3209,993,550,4,Excellent phone!
+3210,719,655,1,Good but pricey.
+3211,460,458,2,Good but pricey.
+3212,984,473,5,Nice sound quality.
+3213,178,659,5,Good but pricey.
+3214,382,698,2,Excellent phone!
+3215,37,325,1,Nice sound quality.
+3216,971,404,2,Good but pricey.
+3217,120,456,3,Excellent phone!
+3218,915,331,2,Excellent phone!
+3219,630,221,2,Great product!
+3220,1,278,4,Good but pricey.
+3221,721,535,5,Nice sound quality.
+3222,936,251,5,Great product!
+3223,311,562,3,Nice sound quality.
+3224,208,561,3,Great product!
+3225,154,466,4,Excellent phone!
+3226,762,316,3,Great product!
+3227,683,255,1,Great product!
+3228,315,492,4,Great product!
+3229,307,251,4,Good but pricey.
+3230,504,530,2,Great product!
+3231,619,473,2,Excellent phone!
+3232,655,454,1,Nice sound quality.
+3233,520,692,4,Good but pricey.
+3234,606,673,4,Excellent phone!
+3235,910,261,2,Good but pricey.
+3236,97,547,5,Nice sound quality.
+3237,490,681,5,Nice sound quality.
+3238,7,659,2,Nice sound quality.
+3239,786,597,3,Good but pricey.
+3240,12,649,4,Good but pricey.
+3241,514,551,1,Nice sound quality.
+3242,946,425,5,Nice sound quality.
+3243,349,669,3,Excellent phone!
+3244,917,536,4,Nice sound quality.
+3245,7,303,3,Great product!
+3246,500,671,4,Good but pricey.
+3247,475,658,4,Excellent phone!
+3248,524,248,2,Good but pricey.
+3249,852,425,2,Nice sound quality.
+3250,57,542,1,Great product!
+3251,590,433,1,Nice sound quality.
+3252,586,270,3,Good but pricey.
+3253,233,247,2,Excellent phone!
+3254,791,428,4,Good but pricey.
+3255,30,695,2,Excellent phone!
+3256,367,210,4,Great product!
+3257,826,385,2,Nice sound quality.
+3258,607,280,4,Nice sound quality.
+3259,820,213,3,Great product!
+3260,56,699,2,Good but pricey.
+3261,10,645,5,Great product!
+3262,915,514,5,Nice sound quality.
+3263,147,540,4,Excellent phone!
+3264,364,524,3,Nice sound quality.
+3265,599,284,4,Good but pricey.
+3266,253,286,3,Excellent phone!
+3267,699,357,1,Good but pricey.
+3268,940,344,2,Nice sound quality.
+3269,745,691,3,Nice sound quality.
+3270,253,263,4,Excellent phone!
+3271,443,631,1,Good but pricey.
+3272,736,243,4,Excellent phone!
+3273,340,607,5,Excellent phone!
+3274,516,358,5,Good but pricey.
+3275,353,385,2,Excellent phone!
+3276,624,486,2,Great product!
+3277,705,691,1,Excellent phone!
+3278,653,523,5,Nice sound quality.
+3279,323,640,3,Good but pricey.
+3280,140,224,5,Nice sound quality.
+3281,861,697,2,Great product!
+3282,951,557,4,Great product!
+3283,445,405,1,Excellent phone!
+3284,95,562,5,Nice sound quality.
+3285,553,424,3,Excellent phone!
+3286,420,301,3,Excellent phone!
+3287,514,404,3,Nice sound quality.
+3288,790,208,1,Great product!
+3289,150,672,3,Great product!
+3290,553,372,3,Great product!
+3291,351,408,5,Good but pricey.
+3292,116,296,1,Good but pricey.
+3293,632,362,4,Excellent phone!
+3294,237,491,4,Good but pricey.
+3295,270,296,3,Good but pricey.
+3296,861,506,2,Nice sound quality.
+3297,291,345,1,Excellent phone!
+3298,434,458,2,Excellent phone!
+3299,9,674,1,Nice sound quality.
+3300,751,638,1,Great product!
+3301,630,500,5,Nice sound quality.
+3302,864,665,3,Great product!
+3303,827,302,5,Excellent phone!
+3304,824,377,2,Excellent phone!
+3305,475,586,2,Good but pricey.
+3306,522,528,4,Good but pricey.
+3307,537,310,5,Nice sound quality.
+3308,685,398,5,Good but pricey.
+3309,737,593,5,Excellent phone!
+3310,11,329,4,Excellent phone!
+3311,613,653,5,Great product!
+3312,777,559,5,Good but pricey.
+3313,903,337,5,Great product!
+3314,327,598,5,Excellent phone!
+3315,930,227,2,Good but pricey.
+3316,595,337,3,Great product!
+3317,276,364,2,Excellent phone!
+3318,370,549,5,Great product!
+3319,490,668,1,Good but pricey.
+3320,345,663,1,Great product!
+3321,773,556,4,Great product!
+3322,368,331,2,Excellent phone!
+3323,733,573,4,Good but pricey.
+3324,311,351,4,Nice sound quality.
+3325,731,578,1,Nice sound quality.
+3326,601,446,2,Great product!
+3327,485,310,3,Excellent phone!
+3328,15,273,2,Good but pricey.
+3329,758,486,4,Excellent phone!
+3330,688,475,5,Good but pricey.
+3331,4,558,4,Excellent phone!
+3332,846,267,2,Nice sound quality.
+3333,376,250,1,Nice sound quality.
+3334,369,504,2,Nice sound quality.
+3335,465,203,3,Excellent phone!
+3336,533,426,5,Excellent phone!
+3337,720,266,5,Great product!
+3338,986,355,4,Nice sound quality.
+3339,137,671,2,Great product!
+3340,834,562,1,Excellent phone!
+3341,363,680,3,Good but pricey.
+3342,975,311,4,Nice sound quality.
+3343,931,683,2,Nice sound quality.
+3344,216,496,1,Nice sound quality.
+3345,368,581,2,Nice sound quality.
+3346,117,456,1,Nice sound quality.
+3347,179,474,2,Excellent phone!
+3348,246,355,2,Nice sound quality.
+3349,128,339,4,Nice sound quality.
+3350,358,367,2,Great product!
+3351,78,219,2,Good but pricey.
+3352,741,545,4,Nice sound quality.
+3353,293,591,4,Great product!
+3354,774,423,5,Excellent phone!
+3355,82,257,5,Great product!
+3356,342,586,4,Nice sound quality.
+3357,338,494,3,Great product!
+3358,819,333,1,Great product!
+3359,578,662,4,Excellent phone!
+3360,96,538,5,Great product!
+3361,145,492,2,Excellent phone!
+3362,577,652,4,Excellent phone!
+3363,521,544,4,Great product!
+3364,397,405,5,Nice sound quality.
+3365,996,319,5,Good but pricey.
+3366,357,453,3,Great product!
+3367,186,285,5,Great product!
+3368,670,385,5,Great product!
+3369,543,425,5,Good but pricey.
+3370,151,348,2,Good but pricey.
+3371,319,589,4,Excellent phone!
+3372,754,480,4,Good but pricey.
+3373,668,427,5,Good but pricey.
+3374,59,486,3,Great product!
+3375,10,484,5,Excellent phone!
+3376,857,381,3,Nice sound quality.
+3377,124,635,4,Excellent phone!
+3378,356,309,3,Good but pricey.
+3379,346,335,3,Good but pricey.
+3380,794,626,1,Great product!
+3381,237,491,3,Nice sound quality.
+3382,333,575,3,Nice sound quality.
+3383,17,678,2,Nice sound quality.
+3384,424,490,4,Good but pricey.
+3385,324,303,5,Good but pricey.
+3386,23,401,1,Excellent phone!
+3387,931,317,3,Good but pricey.
+3388,459,532,2,Nice sound quality.
+3389,460,510,2,Nice sound quality.
+3390,521,229,5,Nice sound quality.
+3391,719,594,5,Great product!
+3392,557,227,4,Excellent phone!
+3393,421,667,3,Excellent phone!
+3394,965,213,2,Good but pricey.
+3395,403,242,1,Great product!
+3396,331,621,4,Excellent phone!
+3397,457,645,3,Great product!
+3398,483,424,5,Great product!
+3399,498,663,3,Good but pricey.
+3400,27,221,5,Great product!
+3401,397,587,3,Excellent phone!
+3402,953,336,1,Good but pricey.
+3403,188,526,4,Excellent phone!
+3404,140,421,5,Great product!
+3405,521,667,1,Great product!
+3406,746,345,2,Nice sound quality.
+3407,92,210,1,Good but pricey.
+3408,77,425,1,Good but pricey.
+3409,852,341,1,Nice sound quality.
+3410,244,675,5,Excellent phone!
+3411,845,306,2,Excellent phone!
+3412,667,468,4,Great product!
+3413,730,394,1,Good but pricey.
+3414,959,658,5,Great product!
+3415,989,328,5,Nice sound quality.
+3416,797,413,4,Great product!
+3417,662,351,3,Excellent phone!
+3418,841,649,2,Excellent phone!
+3419,88,681,2,Nice sound quality.
+3420,618,584,1,Excellent phone!
+3421,915,380,3,Nice sound quality.
+3422,294,517,2,Good but pricey.
+3423,95,226,1,Nice sound quality.
+3424,253,215,3,Nice sound quality.
+3425,551,222,5,Nice sound quality.
+3426,399,545,1,Excellent phone!
+3427,767,265,3,Good but pricey.
+3428,54,451,4,Great product!
+3429,928,610,2,Good but pricey.
+3430,243,221,1,Excellent phone!
+3431,110,433,5,Good but pricey.
+3432,766,608,1,Good but pricey.
+3433,624,687,2,Nice sound quality.
+3434,686,216,2,Nice sound quality.
+3435,701,616,3,Excellent phone!
+3436,221,472,5,Nice sound quality.
+3437,761,405,3,Excellent phone!
+3438,564,498,5,Great product!
+3439,162,360,1,Good but pricey.
+3440,969,634,1,Great product!
+3441,35,241,3,Great product!
+3442,966,308,4,Good but pricey.
+3443,37,325,2,Nice sound quality.
+3444,846,352,3,Great product!
+3445,829,213,3,Good but pricey.
+3446,623,403,1,Great product!
+3447,370,279,2,Great product!
+3448,177,594,3,Good but pricey.
+3449,521,242,1,Nice sound quality.
+3450,275,369,1,Excellent phone!
+3451,983,449,3,Good but pricey.
+3452,633,321,3,Excellent phone!
+3453,105,587,1,Good but pricey.
+3454,156,639,3,Good but pricey.
+3455,336,472,2,Excellent phone!
+3456,26,500,1,Excellent phone!
+3457,934,409,1,Nice sound quality.
+3458,296,673,3,Good but pricey.
+3459,537,358,3,Good but pricey.
+3460,355,695,3,Good but pricey.
+3461,886,321,2,Nice sound quality.
+3462,69,427,1,Excellent phone!
+3463,327,621,4,Good but pricey.
+3464,151,644,2,Excellent phone!
+3465,857,661,2,Nice sound quality.
+3466,577,224,1,Great product!
+3467,662,430,4,Excellent phone!
+3468,320,226,1,Nice sound quality.
+3469,757,258,2,Great product!
+3470,452,465,3,Good but pricey.
+3471,570,326,1,Good but pricey.
+3472,668,645,1,Excellent phone!
+3473,112,475,3,Great product!
+3474,635,228,4,Nice sound quality.
+3475,462,591,4,Good but pricey.
+3476,865,501,1,Good but pricey.
+3477,964,670,3,Great product!
+3478,362,328,1,Nice sound quality.
+3479,203,294,3,Good but pricey.
+3480,487,391,2,Good but pricey.
+3481,480,621,3,Excellent phone!
+3482,4,472,1,Nice sound quality.
+3483,129,684,5,Good but pricey.
+3484,26,205,4,Great product!
+3485,801,357,1,Good but pricey.
+3486,977,252,3,Nice sound quality.
+3487,27,443,3,Excellent phone!
+3488,42,351,4,Good but pricey.
+3489,965,462,1,Great product!
+3490,583,620,5,Good but pricey.
+3491,64,641,2,Great product!
+3492,25,617,5,Nice sound quality.
+3493,72,505,2,Excellent phone!
+3494,482,625,2,Nice sound quality.
+3495,873,280,1,Good but pricey.
+3496,900,383,2,Good but pricey.
+3497,268,554,3,Excellent phone!
+3498,826,307,2,Great product!
+3499,95,354,2,Nice sound quality.
+3500,395,493,4,Great product!
+3501,869,405,4,Good but pricey.
+3502,364,316,1,Great product!
+3503,315,217,1,Nice sound quality.
+3504,117,680,3,Great product!
+3505,164,488,4,Good but pricey.
+3506,877,356,5,Nice sound quality.
+3507,790,677,1,Great product!
+3508,577,225,1,Great product!
+3509,306,631,4,Nice sound quality.
+3510,772,478,4,Good but pricey.
+3511,740,675,3,Nice sound quality.
+3512,200,517,4,Good but pricey.
+3513,985,326,2,Great product!
+3514,732,500,5,Nice sound quality.
+3515,180,558,2,Good but pricey.
+3516,358,476,2,Nice sound quality.
+3517,740,565,2,Great product!
+3518,996,378,1,Nice sound quality.
+3519,252,544,2,Great product!
+3520,299,631,1,Great product!
+3521,873,247,4,Great product!
+3522,430,400,5,Good but pricey.
+3523,4,251,5,Good but pricey.
+3524,653,639,2,Excellent phone!
+3525,678,662,5,Good but pricey.
+3526,254,495,1,Excellent phone!
+3527,941,470,4,Nice sound quality.
+3528,665,397,2,Great product!
+3529,579,631,3,Good but pricey.
+3530,567,221,5,Great product!
+3531,96,343,5,Excellent phone!
+3532,167,448,2,Good but pricey.
+3533,833,556,5,Good but pricey.
+3534,331,553,5,Good but pricey.
+3535,898,665,3,Good but pricey.
+3536,965,668,1,Great product!
+3537,888,201,2,Good but pricey.
+3538,854,664,2,Excellent phone!
+3539,62,565,3,Good but pricey.
+3540,174,538,3,Excellent phone!
+3541,253,594,1,Excellent phone!
+3542,461,607,4,Great product!
+3543,624,474,2,Good but pricey.
+3544,215,441,5,Excellent phone!
+3545,239,258,1,Good but pricey.
+3546,415,326,2,Great product!
+3547,739,529,1,Great product!
+3548,742,566,4,Good but pricey.
+3549,745,678,2,Excellent phone!
+3550,675,661,5,Nice sound quality.
+3551,126,252,2,Nice sound quality.
+3552,941,700,1,Great product!
+3553,253,423,4,Excellent phone!
+3554,845,502,1,Nice sound quality.
+3555,950,563,1,Excellent phone!
+3556,711,469,3,Good but pricey.
+3557,197,296,1,Great product!
+3558,634,473,4,Good but pricey.
+3559,413,523,5,Good but pricey.
+3560,456,261,3,Good but pricey.
+3561,776,521,1,Excellent phone!
+3562,54,381,2,Nice sound quality.
+3563,647,333,3,Good but pricey.
+3564,339,616,4,Great product!
+3565,359,289,2,Excellent phone!
+3566,151,373,4,Nice sound quality.
+3567,100,512,2,Good but pricey.
+3568,234,205,5,Great product!
+3569,544,557,4,Good but pricey.
+3570,62,543,2,Nice sound quality.
+3571,941,404,4,Nice sound quality.
+3572,196,362,3,Good but pricey.
+3573,542,261,4,Good but pricey.
+3574,755,671,4,Excellent phone!
+3575,106,664,2,Nice sound quality.
+3576,295,697,4,Nice sound quality.
+3577,645,390,5,Good but pricey.
+3578,451,525,1,Great product!
+3579,534,263,3,Good but pricey.
+3580,156,244,2,Good but pricey.
+3581,406,439,4,Nice sound quality.
+3582,896,228,4,Excellent phone!
+3583,726,398,4,Good but pricey.
+3584,738,469,3,Great product!
+3585,797,371,1,Great product!
+3586,683,230,5,Good but pricey.
+3587,554,354,5,Great product!
+3588,572,409,2,Great product!
+3589,375,263,1,Good but pricey.
+3590,589,529,1,Great product!
+3591,455,257,3,Great product!
+3592,202,520,4,Good but pricey.
+3593,732,408,1,Nice sound quality.
+3594,452,633,4,Excellent phone!
+3595,187,508,3,Excellent phone!
+3596,608,263,2,Nice sound quality.
+3597,854,448,2,Good but pricey.
+3598,724,666,4,Nice sound quality.
+3599,368,341,4,Excellent phone!
+3600,340,293,1,Excellent phone!
+3601,262,307,3,Excellent phone!
+3602,841,565,2,Excellent phone!
+3603,924,288,1,Good but pricey.
+3604,589,501,5,Excellent phone!
+3605,543,308,1,Excellent phone!
+3606,551,246,4,Good but pricey.
+3607,306,277,5,Nice sound quality.
+3608,846,417,1,Good but pricey.
+3609,726,369,3,Excellent phone!
+3610,638,502,2,Great product!
+3611,165,329,5,Good but pricey.
+3612,758,401,3,Good but pricey.
+3613,621,396,1,Nice sound quality.
+3614,88,548,4,Excellent phone!
+3615,200,468,4,Great product!
+3616,271,288,3,Good but pricey.
+3617,51,453,4,Good but pricey.
+3618,489,438,2,Good but pricey.
+3619,198,273,3,Great product!
+3620,23,619,3,Good but pricey.
+3621,665,558,4,Good but pricey.
+3622,223,555,3,Great product!
+3623,942,361,1,Good but pricey.
+3624,221,258,5,Great product!
+3625,663,584,5,Nice sound quality.
+3626,266,573,4,Great product!
+3627,73,491,2,Nice sound quality.
+3628,881,630,2,Great product!
+3629,77,540,4,Excellent phone!
+3630,544,266,4,Good but pricey.
+3631,881,628,3,Nice sound quality.
+3632,435,226,2,Good but pricey.
+3633,937,498,5,Good but pricey.
+3634,65,277,4,Great product!
+3635,961,486,5,Excellent phone!
+3636,357,572,5,Great product!
+3637,936,616,2,Good but pricey.
+3638,18,236,5,Great product!
+3639,676,219,3,Nice sound quality.
+3640,799,478,3,Excellent phone!
+3641,566,521,2,Good but pricey.
+3642,575,513,3,Great product!
+3643,769,467,4,Nice sound quality.
+3644,751,482,2,Excellent phone!
+3645,436,632,5,Great product!
+3646,996,219,4,Great product!
+3647,441,539,2,Good but pricey.
+3648,9,340,5,Nice sound quality.
+3649,470,267,5,Excellent phone!
+3650,632,512,5,Great product!
+3651,348,218,5,Excellent phone!
+3652,602,569,5,Nice sound quality.
+3653,372,461,2,Good but pricey.
+3654,970,312,3,Good but pricey.
+3655,824,608,5,Good but pricey.
+3656,175,662,4,Excellent phone!
+3657,515,315,2,Excellent phone!
+3658,130,366,1,Great product!
+3659,566,267,3,Nice sound quality.
+3660,293,455,4,Nice sound quality.
+3661,696,270,5,Nice sound quality.
+3662,927,660,2,Excellent phone!
+3663,353,508,2,Good but pricey.
+3664,224,403,5,Nice sound quality.
+3665,524,327,4,Great product!
+3666,954,623,2,Excellent phone!
+3667,707,643,3,Good but pricey.
+3668,759,610,4,Nice sound quality.
+3669,509,521,5,Good but pricey.
+3670,368,280,4,Great product!
+3671,666,376,4,Nice sound quality.
+3672,590,313,1,Nice sound quality.
+3673,652,311,5,Good but pricey.
+3674,500,509,3,Excellent phone!
+3675,90,337,5,Good but pricey.
+3676,656,333,1,Great product!
+3677,949,572,5,Good but pricey.
+3678,72,528,5,Good but pricey.
+3679,433,389,3,Nice sound quality.
+3680,689,477,1,Excellent phone!
+3681,348,425,5,Excellent phone!
+3682,263,303,5,Excellent phone!
+3683,271,307,2,Excellent phone!
+3684,509,263,5,Good but pricey.
+3685,508,604,3,Nice sound quality.
+3686,617,642,2,Nice sound quality.
+3687,420,445,1,Excellent phone!
+3688,72,373,4,Good but pricey.
+3689,74,606,3,Excellent phone!
+3690,655,533,1,Excellent phone!
+3691,503,687,2,Nice sound quality.
+3692,574,531,4,Nice sound quality.
+3693,146,410,1,Excellent phone!
+3694,46,391,3,Good but pricey.
+3695,741,358,2,Excellent phone!
+3696,105,519,3,Nice sound quality.
+3697,109,425,3,Nice sound quality.
+3698,317,372,2,Good but pricey.
+3699,121,523,5,Excellent phone!
+3700,499,642,3,Excellent phone!
+3701,43,649,2,Great product!
+3702,940,236,3,Excellent phone!
+3703,99,334,5,Good but pricey.
+3704,706,237,2,Nice sound quality.
+3705,311,293,1,Great product!
+3706,214,275,1,Good but pricey.
+3707,463,444,1,Good but pricey.
+3708,741,383,4,Great product!
+3709,423,405,3,Excellent phone!
+3710,996,659,3,Great product!
+3711,389,387,2,Good but pricey.
+3712,697,366,4,Excellent phone!
+3713,112,315,3,Nice sound quality.
+3714,911,609,2,Great product!
+3715,859,407,5,Good but pricey.
+3716,272,445,3,Excellent phone!
+3717,825,533,3,Good but pricey.
+3718,996,690,5,Excellent phone!
+3719,102,361,5,Excellent phone!
+3720,210,213,3,Great product!
+3721,739,494,5,Nice sound quality.
+3722,793,642,2,Excellent phone!
+3723,22,672,3,Good but pricey.
+3724,760,604,3,Excellent phone!
+3725,159,436,1,Nice sound quality.
+3726,891,473,3,Good but pricey.
+3727,741,579,1,Excellent phone!
+3728,930,314,5,Excellent phone!
+3729,343,352,5,Great product!
+3730,400,226,2,Nice sound quality.
+3731,454,368,1,Excellent phone!
+3732,699,232,3,Nice sound quality.
+3733,143,421,1,Excellent phone!
+3734,850,406,5,Good but pricey.
+3735,870,621,5,Nice sound quality.
+3736,397,542,2,Good but pricey.
+3737,536,298,5,Nice sound quality.
+3738,141,291,1,Good but pricey.
+3739,961,676,3,Excellent phone!
+3740,240,577,3,Good but pricey.
+3741,292,414,1,Good but pricey.
+3742,817,388,2,Excellent phone!
+3743,82,257,3,Nice sound quality.
+3744,560,307,1,Good but pricey.
+3745,865,642,1,Great product!
+3746,870,395,5,Great product!
+3747,171,222,5,Good but pricey.
+3748,774,386,2,Good but pricey.
+3749,977,568,2,Good but pricey.
+3750,580,285,2,Nice sound quality.
+3751,526,280,1,Excellent phone!
+3752,542,529,1,Great product!
+3753,110,277,5,Great product!
+3754,212,530,3,Nice sound quality.
+3755,776,583,2,Good but pricey.
+3756,438,633,4,Good but pricey.
+3757,322,577,2,Excellent phone!
+3758,997,541,5,Excellent phone!
+3759,900,377,1,Great product!
+3760,714,626,5,Excellent phone!
+3761,84,624,5,Great product!
+3762,956,655,5,Nice sound quality.
+3763,376,374,4,Good but pricey.
+3764,53,606,4,Good but pricey.
+3765,867,282,2,Great product!
+3766,496,221,1,Good but pricey.
+3767,256,379,5,Nice sound quality.
+3768,586,698,3,Excellent phone!
+3769,220,598,2,Nice sound quality.
+3770,655,530,2,Good but pricey.
+3771,100,425,5,Nice sound quality.
+3772,129,465,2,Good but pricey.
+3773,918,602,5,Great product!
+3774,219,469,2,Excellent phone!
+3775,477,451,1,Excellent phone!
+3776,783,473,2,Good but pricey.
+3777,458,582,2,Good but pricey.
+3778,980,543,3,Excellent phone!
+3779,22,609,1,Nice sound quality.
+3780,690,638,1,Nice sound quality.
+3781,560,472,1,Nice sound quality.
+3782,629,480,2,Excellent phone!
+3783,329,423,4,Great product!
+3784,888,275,2,Good but pricey.
+3785,691,351,5,Good but pricey.
+3786,480,625,3,Excellent phone!
+3787,785,559,1,Great product!
+3788,874,542,5,Excellent phone!
+3789,339,617,5,Nice sound quality.
+3790,872,305,4,Nice sound quality.
+3791,859,242,1,Good but pricey.
+3792,179,376,2,Good but pricey.
+3793,421,445,1,Good but pricey.
+3794,482,453,3,Good but pricey.
+3795,49,474,1,Nice sound quality.
+3796,827,647,5,Nice sound quality.
+3797,906,534,5,Great product!
+3798,767,292,2,Good but pricey.
+3799,30,211,2,Excellent phone!
+3800,85,352,2,Great product!
+3801,789,389,3,Great product!
+3802,502,648,1,Nice sound quality.
+3803,546,364,4,Good but pricey.
+3804,329,326,1,Great product!
+3805,610,411,2,Good but pricey.
+3806,434,661,3,Nice sound quality.
+3807,588,297,1,Great product!
+3808,687,509,5,Great product!
+3809,853,539,1,Excellent phone!
+3810,249,247,5,Nice sound quality.
+3811,852,508,1,Excellent phone!
+3812,134,424,1,Nice sound quality.
+3813,690,663,1,Excellent phone!
+3814,365,257,2,Nice sound quality.
+3815,740,275,5,Nice sound quality.
+3816,575,454,3,Great product!
+3817,780,351,4,Excellent phone!
+3818,425,259,5,Excellent phone!
+3819,415,525,2,Excellent phone!
+3820,770,640,5,Great product!
+3821,656,286,3,Good but pricey.
+3822,512,370,5,Nice sound quality.
+3823,385,346,2,Excellent phone!
+3824,388,527,2,Nice sound quality.
+3825,815,233,4,Great product!
+3826,449,203,3,Nice sound quality.
+3827,564,484,4,Great product!
+3828,303,457,1,Good but pricey.
+3829,99,326,2,Excellent phone!
+3830,973,647,4,Great product!
+3831,306,313,2,Nice sound quality.
+3832,557,503,2,Great product!
+3833,42,493,1,Great product!
+3834,991,542,2,Good but pricey.
+3835,468,248,4,Excellent phone!
+3836,440,564,3,Great product!
+3837,327,475,5,Great product!
+3838,569,598,4,Nice sound quality.
+3839,1000,395,1,Great product!
+3840,33,539,5,Great product!
+3841,412,425,2,Excellent phone!
+3842,626,413,4,Excellent phone!
+3843,812,521,5,Nice sound quality.
+3844,114,482,4,Great product!
+3845,508,338,2,Great product!
+3846,56,555,4,Great product!
+3847,556,533,1,Good but pricey.
+3848,724,270,5,Good but pricey.
+3849,352,499,5,Nice sound quality.
+3850,329,270,5,Good but pricey.
+3851,546,683,4,Nice sound quality.
+3852,270,408,2,Great product!
+3853,196,689,4,Good but pricey.
+3854,413,400,4,Excellent phone!
+3855,637,259,5,Good but pricey.
+3856,79,459,2,Great product!
+3857,767,589,3,Excellent phone!
+3858,657,541,2,Nice sound quality.
+3859,83,551,4,Great product!
+3860,742,534,1,Excellent phone!
+3861,137,557,2,Good but pricey.
+3862,539,539,5,Nice sound quality.
+3863,689,365,1,Good but pricey.
+3864,719,445,3,Excellent phone!
+3865,933,284,3,Excellent phone!
+3866,924,636,1,Great product!
+3867,306,650,3,Nice sound quality.
+3868,311,577,1,Nice sound quality.
+3869,388,647,4,Excellent phone!
+3870,725,591,1,Great product!
+3871,866,681,4,Excellent phone!
+3872,915,509,5,Excellent phone!
+3873,549,314,5,Nice sound quality.
+3874,506,434,3,Good but pricey.
+3875,388,462,1,Good but pricey.
+3876,293,591,4,Nice sound quality.
+3877,179,372,5,Great product!
+3878,672,218,5,Nice sound quality.
+3879,429,435,5,Great product!
+3880,880,510,3,Nice sound quality.
+3881,524,583,5,Great product!
+3882,681,357,2,Excellent phone!
+3883,312,411,3,Excellent phone!
+3884,80,481,1,Great product!
+3885,14,519,2,Nice sound quality.
+3886,54,396,3,Excellent phone!
+3887,447,315,3,Nice sound quality.
+3888,766,597,4,Good but pricey.
+3889,65,360,2,Excellent phone!
+3890,372,355,2,Nice sound quality.
+3891,503,251,2,Nice sound quality.
+3892,570,618,5,Good but pricey.
+3893,96,484,5,Nice sound quality.
+3894,533,273,1,Great product!
+3895,260,528,1,Excellent phone!
+3896,585,541,1,Great product!
+3897,248,310,5,Good but pricey.
+3898,127,486,4,Great product!
+3899,499,421,1,Nice sound quality.
+3900,46,209,3,Good but pricey.
+3901,982,597,5,Good but pricey.
+3902,268,282,4,Great product!
+3903,640,520,3,Good but pricey.
+3904,542,494,3,Great product!
+3905,94,575,5,Great product!
+3906,736,222,2,Great product!
+3907,316,615,4,Good but pricey.
+3908,612,299,5,Good but pricey.
+3909,71,370,2,Excellent phone!
+3910,593,390,5,Great product!
+3911,449,306,5,Great product!
+3912,910,520,3,Great product!
+3913,367,658,5,Great product!
+3914,812,465,2,Great product!
+3915,620,582,3,Great product!
+3916,614,551,2,Great product!
+3917,410,628,2,Excellent phone!
+3918,91,647,3,Excellent phone!
+3919,509,368,2,Nice sound quality.
+3920,877,544,1,Great product!
+3921,528,625,5,Great product!
+3922,110,313,3,Excellent phone!
+3923,775,528,3,Excellent phone!
+3924,672,506,1,Great product!
+3925,765,348,1,Great product!
+3926,89,537,1,Excellent phone!
+3927,607,420,1,Excellent phone!
+3928,272,654,4,Nice sound quality.
+3929,247,626,3,Nice sound quality.
+3930,361,233,2,Great product!
+3931,378,420,3,Excellent phone!
+3932,206,519,3,Nice sound quality.
+3933,345,385,3,Great product!
+3934,830,393,1,Nice sound quality.
+3935,798,561,1,Nice sound quality.
+3936,760,380,4,Nice sound quality.
+3937,455,555,3,Good but pricey.
+3938,908,672,5,Great product!
+3939,67,206,4,Nice sound quality.
+3940,987,591,1,Great product!
+3941,558,209,3,Great product!
+3942,979,557,1,Excellent phone!
+3943,43,261,2,Great product!
+3944,229,664,1,Nice sound quality.
+3945,951,618,1,Great product!
+3946,813,363,4,Excellent phone!
+3947,444,299,2,Good but pricey.
+3948,234,348,5,Good but pricey.
+3949,199,258,5,Excellent phone!
+3950,497,415,5,Nice sound quality.
+3951,848,516,3,Nice sound quality.
+3952,32,690,5,Nice sound quality.
+3953,264,382,3,Great product!
+3954,113,235,1,Good but pricey.
+3955,973,503,5,Nice sound quality.
+3956,830,246,4,Good but pricey.
+3957,459,287,2,Excellent phone!
+3958,276,204,2,Good but pricey.
+3959,146,466,1,Nice sound quality.
+3960,357,307,2,Good but pricey.
+3961,6,275,2,Excellent phone!
+3962,340,240,1,Good but pricey.
+3963,992,327,1,Great product!
+3964,494,383,1,Excellent phone!
+3965,108,319,4,Great product!
+3966,925,273,1,Great product!
+3967,772,240,1,Nice sound quality.
+3968,71,404,1,Nice sound quality.
+3969,939,665,5,Excellent phone!
+3970,340,296,5,Nice sound quality.
+3971,674,479,4,Good but pricey.
+3972,100,343,4,Excellent phone!
+3973,327,315,2,Nice sound quality.
+3974,33,676,5,Nice sound quality.
+3975,143,572,4,Good but pricey.
+3976,244,686,4,Great product!
+3977,736,333,2,Good but pricey.
+3978,726,368,1,Great product!
+3979,632,602,3,Nice sound quality.
+3980,680,445,2,Great product!
+3981,861,477,3,Great product!
+3982,217,663,2,Nice sound quality.
+3983,901,459,2,Excellent phone!
+3984,974,246,1,Good but pricey.
+3985,434,546,4,Nice sound quality.
+3986,867,535,5,Good but pricey.
+3987,834,583,2,Good but pricey.
+3988,729,437,1,Great product!
+3989,54,253,3,Nice sound quality.
+3990,720,348,4,Excellent phone!
+3991,942,387,2,Good but pricey.
+3992,592,221,3,Good but pricey.
+3993,907,290,2,Excellent phone!
+3994,892,433,5,Good but pricey.
+3995,945,415,5,Nice sound quality.
+3996,995,569,4,Excellent phone!
+3997,151,251,3,Nice sound quality.
+3998,55,353,5,Excellent phone!
+3999,517,524,1,Good but pricey.
+4000,448,316,4,Excellent phone!

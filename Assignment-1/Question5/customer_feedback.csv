@@ -1,0 +1,11 @@
+order_id,customer_id,feedback,rating
+1001,C001,"Great product!",5
+1002,C002,"Satisfied",4
+1003,C003,"Okay, but could be better",3
+1004,C004,"Loved it!",5
+1005,C005,"Not what I expected",2
+2001,C006,"Perfect!",5
+2002,C007,"Good value",4
+2003,C008,"Quality issue",2
+2004,C009,"Would buy again",5
+2005,C010,"Not great",2

@@ -1,0 +1,1001 @@
+customer_id,name,age,gender,location
+1,Grace,34,M,Florida
+2,David,26,F,California
+3,Eve,50,F,Georgia
+4,Grace,37,M,New York
+5,Charlie,30,F,Texas
+6,Hannah,45,F,California
+7,Eve,65,M,Georgia
+8,Eve,46,F,Florida
+9,Grace,30,F,Georgia
+10,Bob,63,F,Florida
+11,Charlie,52,F,California
+12,Grace,23,M,Florida
+13,Charlie,35,M,Illinois
+14,Charlie,68,M,Illinois
+15,Hannah,22,F,Illinois
+16,Eve,64,F,New York
+17,David,42,M,California
+18,Hannah,19,F,Georgia
+19,Hannah,27,F,Georgia
+20,Charlie,47,F,New York
+21,Frank,67,F,Florida
+22,Eve,62,M,New York
+23,Bob,22,M,Florida
+24,Hannah,50,M,Florida
+25,David,18,F,Texas
+26,Frank,35,M,Georgia
+27,Frank,49,M,Illinois
+28,Bob,64,F,Florida
+29,Hannah,66,F,Texas
+30,David,28,M,Georgia
+31,Eve,38,M,Illinois
+32,Alice,43,M,Florida
+33,David,42,M,Florida
+34,Bob,39,F,New York
+35,Frank,44,M,New York
+36,Eve,66,M,Georgia
+37,David,30,F,Illinois
+38,Alice,50,M,Florida
+39,Alice,51,F,Georgia
+40,Charlie,58,F,Georgia
+41,Charlie,52,F,California
+42,Grace,18,M,New York
+43,Bob,38,M,Illinois
+44,Hannah,65,F,Florida
+45,David,23,M,Georgia
+46,David,45,M,Florida
+47,Hannah,34,F,California
+48,Grace,22,F,Illinois
+49,Frank,48,M,Georgia
+50,Frank,22,F,Florida
+51,Grace,55,M,New York
+52,Frank,20,M,California
+53,Charlie,40,M,Illinois
+54,David,54,M,California
+55,Grace,54,F,New York
+56,David,27,F,Illinois
+57,Hannah,27,F,California
+58,Alice,36,F,Texas
+59,Charlie,34,M,New York
+60,Eve,38,M,New York
+61,Charlie,31,F,New York
+62,Grace,26,M,Texas
+63,Eve,63,M,Texas
+64,Alice,18,M,Florida
+65,Grace,68,F,Georgia
+66,Bob,62,F,California
+67,David,30,F,Florida
+68,Alice,21,M,California
+69,David,18,F,Georgia
+70,Frank,66,F,Texas
+71,Bob,57,F,Georgia
+72,Bob,49,F,Texas
+73,Alice,51,F,Georgia
+74,Bob,45,F,Florida
+75,Eve,48,M,Illinois
+76,Bob,25,M,Florida
+77,David,56,F,California
+78,David,43,F,Florida
+79,Grace,51,M,New York
+80,David,20,M,California
+81,Grace,67,F,Georgia
+82,David,29,F,California
+83,Eve,18,F,Illinois
+84,Hannah,61,F,Texas
+85,Grace,22,M,Georgia
+86,Charlie,47,F,California
+87,Frank,47,F,Georgia
+88,Alice,34,F,Georgia
+89,David,65,F,Georgia
+90,Bob,64,M,Texas
+91,Hannah,40,M,Florida
+92,David,32,M,Georgia
+93,Bob,54,F,New York
+94,Frank,38,F,Illinois
+95,Frank,31,M,Texas
+96,Frank,19,F,California
+97,Bob,28,F,Texas
+98,David,68,M,California
+99,Frank,56,M,Texas
+100,Eve,55,M,California
+101,Grace,51,M,Georgia
+102,Bob,55,F,Florida
+103,Bob,67,F,California
+104,David,51,M,California
+105,Bob,35,F,New York
+106,Bob,47,M,California
+107,Frank,32,M,New York
+108,David,44,F,Illinois
+109,Frank,68,M,Georgia
+110,Grace,51,F,New York
+111,Hannah,69,F,Florida
+112,Grace,55,F,Georgia
+113,Hannah,50,F,New York
+114,Frank,41,M,Georgia
+115,Grace,32,F,Georgia
+116,David,47,M,Georgia
+117,Alice,59,M,Illinois
+118,Frank,68,M,Florida
+119,Hannah,34,M,Texas
+120,Eve,22,F,Texas
+121,Hannah,46,F,New York
+122,Eve,21,M,Georgia
+123,Bob,27,M,New York
+124,Grace,34,F,Illinois
+125,Eve,27,M,Illinois
+126,Hannah,34,F,California
+127,Bob,37,M,Illinois
+128,Alice,41,F,California
+129,David,22,M,Florida
+130,David,51,M,New York
+131,David,23,F,Florida
+132,Eve,19,M,Illinois
+133,Alice,30,M,Florida
+134,Eve,60,F,Florida
+135,Grace,60,M,Florida
+136,Eve,65,F,Illinois
+137,Alice,28,F,Georgia
+138,Alice,68,M,Florida
+139,Grace,64,M,California
+140,Alice,40,M,Illinois
+141,Hannah,33,M,Florida
+142,Alice,48,M,Georgia
+143,David,28,M,Illinois
+144,Hannah,33,M,Texas
+145,Hannah,25,F,Georgia
+146,Grace,21,M,California
+147,Charlie,57,F,Florida
+148,Charlie,21,M,Texas
+149,Alice,42,M,Texas
+150,Hannah,20,F,Illinois
+151,Charlie,49,M,Texas
+152,Charlie,20,M,California
+153,Alice,44,F,California
+154,Charlie,46,M,New York
+155,Eve,49,M,California
+156,Bob,67,M,Georgia
+157,Grace,68,F,Texas
+158,Bob,36,M,California
+159,Alice,38,M,Illinois
+160,David,22,M,New York
+161,Grace,35,M,Texas
+162,Alice,45,F,New York
+163,Hannah,59,F,Texas
+164,David,39,M,Illinois
+165,Bob,38,M,New York
+166,Alice,23,F,Florida
+167,Hannah,18,F,Georgia
+168,Grace,22,M,Georgia
+169,Grace,58,F,Texas
+170,Frank,29,M,Florida
+171,Hannah,43,F,New York
+172,Eve,63,F,Florida
+173,Charlie,51,F,Florida
+174,David,66,F,New York
+175,Hannah,31,M,Illinois
+176,Frank,43,F,Florida
+177,Charlie,62,F,Florida
+178,Charlie,44,M,Illinois
+179,Alice,26,F,Florida
+180,Charlie,43,F,Florida
+181,Eve,64,M,Florida
+182,Grace,39,F,Georgia
+183,Frank,64,M,California
+184,Charlie,47,M,Illinois
+185,Alice,60,M,Florida
+186,Eve,65,M,Georgia
+187,Bob,34,F,Illinois
+188,Grace,43,M,Texas
+189,Grace,53,F,Texas
+190,Frank,18,F,Florida
+191,Grace,25,F,Georgia
+192,Charlie,66,F,Georgia
+193,Alice,52,F,Illinois
+194,Grace,69,F,Illinois
+195,Grace,32,F,Georgia
+196,Bob,64,F,Illinois
+197,Bob,39,F,Georgia
+198,David,31,F,California
+199,Eve,43,M,Georgia
+200,Charlie,45,M,Texas
+201,Grace,40,M,Illinois
+202,Hannah,31,F,Georgia
+203,Grace,41,M,Georgia
+204,Alice,19,M,Illinois
+205,David,62,M,California
+206,Eve,43,F,California
+207,Hannah,31,F,Illinois
+208,David,68,F,New York
+209,Frank,24,F,Illinois
+210,Eve,20,M,Illinois
+211,Grace,64,M,California
+212,Grace,40,M,California
+213,Eve,63,M,Illinois
+214,Grace,60,F,Illinois
+215,Charlie,64,F,Illinois
+216,Eve,62,F,California
+217,David,35,M,Illinois
+218,Eve,55,F,Illinois
+219,Hannah,52,F,Florida
+220,Grace,68,M,New York
+221,Charlie,32,M,Texas
+222,Charlie,42,F,New York
+223,Frank,54,F,Florida
+224,David,45,F,Texas
+225,Bob,27,F,Illinois
+226,Bob,56,F,Florida
+227,Eve,34,F,Illinois
+228,Frank,56,M,California
+229,Alice,39,M,Georgia
+230,Eve,43,M,Florida
+231,Frank,61,F,California
+232,David,42,M,Florida
+233,David,34,F,Florida
+234,David,30,F,California
+235,David,37,M,Texas
+236,David,42,F,New York
+237,Frank,21,F,Illinois
+238,Frank,27,M,Florida
+239,Charlie,20,M,Illinois
+240,Hannah,58,M,Georgia
+241,Bob,62,F,California
+242,Grace,35,M,Illinois
+243,David,64,M,California
+244,Alice,53,F,Illinois
+245,Grace,64,M,New York
+246,Frank,39,M,New York
+247,Alice,51,M,New York
+248,Alice,64,F,New York
+249,Alice,25,F,New York
+250,Charlie,57,F,New York
+251,Frank,66,F,California
+252,Alice,61,M,Florida
+253,David,36,F,Illinois
+254,Eve,59,F,New York
+255,Alice,58,M,California
+256,Charlie,54,M,California
+257,Grace,23,M,California
+258,Frank,69,F,Florida
+259,Hannah,43,F,Illinois
+260,Charlie,51,F,Florida
+261,Alice,62,M,Texas
+262,Frank,23,M,California
+263,Eve,54,F,Texas
+264,Alice,50,M,Georgia
+265,Charlie,39,M,New York
+266,Bob,38,M,New York
+267,David,23,F,Florida
+268,Hannah,23,M,Illinois
+269,Grace,65,M,Texas
+270,Charlie,21,F,Illinois
+271,Frank,47,F,Florida
+272,Hannah,28,M,New York
+273,Hannah,47,M,Illinois
+274,Hannah,48,F,Illinois
+275,Alice,41,F,New York
+276,David,26,M,Texas
+277,Alice,20,M,New York
+278,Frank,68,M,Illinois
+279,Alice,48,M,Texas
+280,Bob,57,F,Texas
+281,David,54,M,New York
+282,David,53,M,Illinois
+283,Frank,41,F,Florida
+284,Grace,48,M,Illinois
+285,Bob,23,F,California
+286,Charlie,19,M,Georgia
+287,Alice,37,M,Florida
+288,Eve,45,F,Texas
+289,Alice,28,F,Florida
+290,Hannah,21,M,Texas
+291,Alice,32,M,Texas
+292,Charlie,23,M,Florida
+293,Alice,66,F,Texas
+294,Bob,47,M,Texas
+295,Bob,55,F,California
+296,David,68,F,Illinois
+297,Frank,19,M,Illinois
+298,Grace,32,F,Georgia
+299,Eve,28,M,Georgia
+300,Hannah,25,M,California
+301,Alice,43,M,Georgia
+302,Alice,68,M,Florida
+303,Charlie,62,M,New York
+304,Frank,61,F,New York
+305,Bob,22,F,New York
+306,Eve,23,M,California
+307,David,43,M,California
+308,Bob,21,F,Texas
+309,Hannah,36,F,New York
+310,Frank,37,F,Florida
+311,Hannah,50,F,Georgia
+312,Grace,37,M,Florida
+313,David,66,M,Georgia
+314,Grace,29,F,New York
+315,Charlie,64,M,New York
+316,Hannah,18,F,New York
+317,Charlie,43,M,California
+318,Alice,31,F,Georgia
+319,Grace,55,M,California
+320,Frank,54,F,California
+321,Hannah,28,F,Illinois
+322,Eve,53,M,Florida
+323,David,30,F,Florida
+324,Bob,60,M,Texas
+325,Frank,20,M,California
+326,Frank,50,F,Georgia
+327,Charlie,23,M,Illinois
+328,Grace,67,M,Illinois
+329,Hannah,27,M,Florida
+330,Hannah,22,M,California
+331,Alice,40,M,Texas
+332,Alice,27,F,California
+333,David,61,M,New York
+334,Charlie,19,M,California
+335,Frank,30,M,New York
+336,Hannah,57,M,New York
+337,Eve,19,M,Texas
+338,Charlie,37,F,Georgia
+339,David,18,M,Florida
+340,David,54,F,California
+341,Charlie,26,F,New York
+342,David,34,F,California
+343,Charlie,26,F,Georgia
+344,Bob,28,M,Florida
+345,Charlie,32,F,Georgia
+346,Grace,41,F,Florida
+347,Charlie,55,M,Illinois
+348,David,52,M,Florida
+349,Hannah,47,M,Texas
+350,Grace,48,F,Georgia
+351,David,66,M,New York
+352,Alice,22,M,Illinois
+353,Alice,61,F,Texas
+354,Hannah,67,M,California
+355,Hannah,31,M,Georgia
+356,Grace,28,M,New York
+357,Bob,26,M,Florida
+358,Hannah,51,F,New York
+359,Alice,29,M,California
+360,Charlie,52,M,Illinois
+361,David,52,F,Illinois
+362,Alice,18,M,Georgia
+363,Alice,57,F,Illinois
+364,Bob,39,M,Georgia
+365,Grace,46,F,Georgia
+366,Grace,25,F,Georgia
+367,Frank,28,F,Florida
+368,Bob,58,F,Texas
+369,Charlie,54,M,Georgia
+370,Grace,31,F,Georgia
+371,David,47,M,Texas
+372,Hannah,52,F,New York
+373,Bob,38,F,Georgia
+374,Hannah,54,F,Florida
+375,Alice,22,M,Illinois
+376,David,36,F,Illinois
+377,David,31,M,California
+378,Alice,43,M,California
+379,Bob,21,M,Illinois
+380,Alice,42,M,Illinois
+381,Hannah,62,M,Florida
+382,Frank,59,M,Texas
+383,David,42,M,California
+384,Eve,35,M,Texas
+385,Eve,57,M,Florida
+386,Hannah,25,F,Illinois
+387,Charlie,56,F,Georgia
+388,Grace,57,F,Texas
+389,Alice,31,F,Illinois
+390,Alice,49,F,Illinois
+391,Charlie,68,M,New York
+392,Charlie,55,M,Texas
+393,Hannah,50,M,Georgia
+394,Hannah,40,M,Texas
+395,Charlie,32,M,Illinois
+396,David,50,M,Georgia
+397,Hannah,42,M,Florida
+398,Frank,34,F,New York
+399,Hannah,50,F,Illinois
+400,Alice,64,F,California
+401,Hannah,19,F,California
+402,David,31,M,New York
+403,Charlie,57,M,Florida
+404,Alice,57,M,Illinois
+405,Hannah,68,F,Texas
+406,David,56,M,New York
+407,Frank,68,M,Florida
+408,Hannah,23,M,Texas
+409,David,23,F,California
+410,Frank,20,M,California
+411,Charlie,24,F,Texas
+412,Hannah,68,F,New York
+413,Frank,25,F,California
+414,Alice,59,F,Illinois
+415,Charlie,69,M,Georgia
+416,Alice,32,F,Texas
+417,Eve,64,F,Texas
+418,Bob,46,M,California
+419,Hannah,50,M,New York
+420,Frank,69,F,Illinois
+421,Bob,47,M,New York
+422,Bob,56,F,Florida
+423,Frank,44,F,Florida
+424,Charlie,53,F,Georgia
+425,Hannah,46,F,California
+426,Eve,55,M,California
+427,Alice,50,F,California
+428,David,54,M,Georgia
+429,Alice,44,M,Florida
+430,David,50,M,New York
+431,Alice,21,M,Georgia
+432,Frank,39,F,Georgia
+433,Eve,19,M,New York
+434,Hannah,27,F,California
+435,David,22,M,Illinois
+436,Hannah,27,M,New York
+437,Hannah,50,F,Florida
+438,Hannah,55,F,Texas
+439,Grace,30,F,Texas
+440,Charlie,48,M,Georgia
+441,Alice,64,M,Texas
+442,Hannah,53,F,Illinois
+443,Alice,62,F,California
+444,Hannah,41,F,Florida
+445,David,69,F,Illinois
+446,Charlie,32,M,Florida
+447,Charlie,46,F,Florida
+448,Frank,25,F,California
+449,Grace,22,F,Georgia
+450,Frank,46,F,Texas
+451,Frank,64,M,California
+452,Frank,21,F,Illinois
+453,Frank,29,M,Georgia
+454,Frank,62,F,Illinois
+455,Eve,19,F,Georgia
+456,Charlie,44,M,Illinois
+457,Frank,48,F,California
+458,Hannah,68,M,Georgia
+459,Charlie,68,M,Georgia
+460,Charlie,53,F,Florida
+461,Bob,53,M,Florida
+462,Eve,43,M,New York
+463,Frank,60,M,Illinois
+464,Alice,44,M,Florida
+465,David,22,M,New York
+466,Grace,37,M,Florida
+467,Hannah,28,M,Illinois
+468,Alice,27,M,Georgia
+469,Eve,57,F,Texas
+470,David,55,F,Illinois
+471,Eve,23,M,California
+472,Hannah,25,F,Florida
+473,Charlie,40,M,Florida
+474,David,64,M,Georgia
+475,Charlie,43,F,California
+476,Hannah,63,M,Georgia
+477,Alice,60,M,California
+478,Hannah,29,M,Texas
+479,Alice,43,M,Florida
+480,David,30,F,Florida
+481,David,57,M,Texas
+482,Frank,35,M,New York
+483,Eve,42,M,Georgia
+484,Frank,50,F,Texas
+485,Eve,64,M,Georgia
+486,Frank,57,F,Illinois
+487,Charlie,60,F,Florida
+488,David,29,M,Georgia
+489,Alice,61,M,California
+490,Eve,53,F,Georgia
+491,Hannah,65,M,Illinois
+492,Eve,21,F,Florida
+493,Alice,22,F,Texas
+494,Frank,54,M,Illinois
+495,Eve,25,M,Florida
+496,Grace,59,F,Georgia
+497,Charlie,66,F,New York
+498,David,45,F,New York
+499,Alice,48,F,California
+500,David,26,M,Florida
+501,Grace,68,M,New York
+502,Eve,46,M,Texas
+503,Eve,31,M,Florida
+504,Hannah,57,M,Texas
+505,Grace,58,F,Texas
+506,Alice,39,M,New York
+507,Hannah,28,M,Florida
+508,Charlie,40,M,Georgia
+509,Hannah,18,M,Illinois
+510,Bob,63,M,New York
+511,Alice,54,F,New York
+512,Bob,38,F,Georgia
+513,Grace,43,F,Florida
+514,Frank,63,M,Florida
+515,Bob,53,F,Texas
+516,Charlie,40,F,Georgia
+517,Hannah,18,M,Georgia
+518,Frank,68,M,Florida
+519,Hannah,57,M,Texas
+520,Bob,32,F,New York
+521,Hannah,38,F,California
+522,Grace,64,M,Illinois
+523,Frank,26,M,New York
+524,Grace,26,F,Florida
+525,Bob,27,F,Illinois
+526,Grace,69,M,California
+527,Charlie,43,M,California
+528,Bob,58,F,Texas
+529,Bob,52,M,Illinois
+530,Bob,69,F,Texas
+531,Alice,42,F,New York
+532,Hannah,43,F,Georgia
+533,Alice,28,F,Georgia
+534,Alice,55,M,Georgia
+535,Charlie,19,M,Illinois
+536,Frank,24,F,Georgia
+537,Hannah,35,F,New York
+538,Grace,44,F,Texas
+539,Eve,51,F,Illinois
+540,Bob,44,F,Texas
+541,Grace,34,M,Illinois
+542,Bob,60,M,Texas
+543,Charlie,61,M,California
+544,Bob,68,M,Texas
+545,Alice,41,F,Georgia
+546,Hannah,42,F,California
+547,Eve,24,F,Texas
+548,David,69,F,Illinois
+549,Bob,23,F,Illinois
+550,Grace,41,M,Illinois
+551,Alice,50,F,Florida
+552,David,66,M,New York
+553,Eve,46,M,Illinois
+554,David,60,M,California
+555,Alice,39,M,Illinois
+556,Hannah,43,F,Florida
+557,Hannah,45,M,Georgia
+558,Frank,67,M,California
+559,Hannah,38,M,Florida
+560,Frank,66,F,Georgia
+561,David,24,F,California
+562,Charlie,34,F,Texas
+563,Grace,37,M,New York
+564,Grace,58,M,New York
+565,David,66,F,Florida
+566,Bob,37,M,Georgia
+567,Bob,39,F,New York
+568,Hannah,45,F,Georgia
+569,Grace,57,M,Georgia
+570,Grace,66,M,Florida
+571,Frank,24,M,Florida
+572,Charlie,18,M,Florida
+573,Alice,49,F,New York
+574,Bob,30,F,Florida
+575,Grace,47,F,New York
+576,Frank,40,F,Florida
+577,Eve,68,F,Illinois
+578,Frank,36,M,Georgia
+579,Bob,49,F,Florida
+580,Bob,47,F,California
+581,Frank,46,F,Georgia
+582,Alice,66,M,Georgia
+583,David,62,M,Florida
+584,Bob,46,M,Texas
+585,Frank,47,M,Florida
+586,Grace,33,F,Georgia
+587,Frank,57,F,California
+588,Charlie,36,M,Georgia
+589,David,35,M,California
+590,Eve,18,F,New York
+591,Alice,31,F,Illinois
+592,Hannah,68,M,Georgia
+593,Eve,64,M,Florida
+594,David,67,M,New York
+595,David,19,M,Illinois
+596,David,45,F,Florida
+597,Eve,66,F,Texas
+598,Grace,67,F,Florida
+599,David,47,M,California
+600,Frank,55,M,California
+601,Eve,68,F,Texas
+602,Hannah,21,F,New York
+603,David,18,F,Illinois
+604,Frank,25,F,Florida
+605,Grace,46,M,California
+606,Charlie,56,F,New York
+607,Grace,20,F,Texas
+608,Hannah,49,F,Georgia
+609,David,27,F,California
+610,Hannah,27,F,Texas
+611,Eve,36,F,Florida
+612,Bob,63,F,Illinois
+613,David,51,M,California
+614,Bob,50,M,California
+615,Frank,40,M,Florida
+616,Charlie,45,M,Georgia
+617,Alice,49,F,New York
+618,Hannah,67,M,Illinois
+619,Grace,24,M,California
+620,Charlie,46,F,Illinois
+621,David,25,F,California
+622,Bob,18,M,Illinois
+623,Grace,20,M,Texas
+624,Bob,41,F,California
+625,Eve,40,M,Illinois
+626,Bob,25,F,New York
+627,Eve,64,F,Texas
+628,Frank,54,F,Texas
+629,Grace,20,F,New York
+630,Grace,68,M,Illinois
+631,Alice,50,F,Florida
+632,David,45,F,New York
+633,Eve,64,M,Illinois
+634,Alice,25,F,New York
+635,Bob,51,M,New York
+636,Bob,52,M,California
+637,Alice,49,M,Illinois
+638,Grace,41,F,Florida
+639,Bob,31,M,California
+640,Hannah,49,M,New York
+641,Frank,63,F,Georgia
+642,Frank,60,M,New York
+643,Hannah,33,M,New York
+644,Alice,21,M,Illinois
+645,Hannah,69,M,Illinois
+646,Eve,54,M,California
+647,Eve,38,F,Florida
+648,Alice,31,M,California
+649,Hannah,48,M,Texas
+650,Eve,65,F,New York
+651,Grace,35,F,Georgia
+652,Hannah,24,F,New York
+653,Grace,27,M,New York
+654,Eve,24,F,California
+655,Frank,50,M,Georgia
+656,Eve,40,M,Georgia
+657,Grace,38,F,Georgia
+658,Charlie,36,F,California
+659,David,65,M,New York
+660,Bob,36,F,California
+661,Hannah,53,M,Illinois
+662,Charlie,46,F,Illinois
+663,Eve,35,F,California
+664,Frank,19,F,Georgia
+665,Alice,18,M,New York
+666,Eve,64,F,California
+667,Frank,22,M,California
+668,David,37,M,California
+669,Eve,28,M,Texas
+670,Grace,59,M,Illinois
+671,Alice,19,F,Georgia
+672,Frank,20,M,Florida
+673,Frank,40,M,Georgia
+674,Frank,29,F,Florida
+675,David,37,M,Texas
+676,Eve,22,F,California
+677,David,54,M,Texas
+678,Hannah,55,F,Texas
+679,Bob,47,M,New York
+680,Bob,26,F,Illinois
+681,Hannah,51,M,Florida
+682,Eve,61,M,California
+683,Grace,52,F,Florida
+684,David,69,F,Georgia
+685,Alice,39,F,Florida
+686,Frank,61,F,Georgia
+687,Frank,41,M,Illinois
+688,Eve,34,M,Georgia
+689,Grace,27,F,Florida
+690,Bob,47,M,Florida
+691,Bob,63,F,Georgia
+692,Frank,40,F,Texas
+693,Eve,49,M,Illinois
+694,David,34,M,New York
+695,Bob,67,M,California
+696,David,68,M,Florida
+697,Grace,34,M,California
+698,Bob,31,M,New York
+699,Bob,26,M,California
+700,Charlie,57,F,New York
+701,Bob,19,F,Georgia
+702,Hannah,62,F,Texas
+703,Alice,42,F,Florida
+704,Hannah,56,F,New York
+705,Eve,26,M,California
+706,Eve,39,F,Florida
+707,David,60,F,Texas
+708,Hannah,63,F,Georgia
+709,Hannah,21,F,Florida
+710,Hannah,43,F,New York
+711,Grace,46,F,Texas
+712,Bob,62,F,California
+713,Alice,51,M,Texas
+714,David,40,M,Texas
+715,Hannah,54,F,Illinois
+716,Hannah,28,M,Texas
+717,Charlie,23,M,Texas
+718,David,35,M,Florida
+719,Hannah,38,M,California
+720,David,59,F,Florida
+721,Bob,53,M,Florida
+722,Charlie,58,M,New York
+723,David,55,M,Florida
+724,Alice,51,F,Illinois
+725,Alice,34,F,Illinois
+726,Eve,54,F,New York
+727,Charlie,42,F,Georgia
+728,Charlie,55,F,California
+729,Eve,29,F,California
+730,David,40,F,Florida
+731,Charlie,59,M,Florida
+732,Alice,39,M,Georgia
+733,Alice,38,M,Florida
+734,Hannah,44,F,California
+735,Bob,48,F,Texas
+736,Charlie,23,F,Illinois
+737,David,44,F,Texas
+738,Eve,57,F,Texas
+739,Eve,51,M,California
+740,David,29,M,Texas
+741,Grace,62,F,Georgia
+742,Frank,24,F,New York
+743,Bob,27,F,Florida
+744,Eve,62,F,New York
+745,Charlie,34,M,Illinois
+746,Bob,43,F,Florida
+747,Charlie,38,F,Texas
+748,Grace,45,F,Illinois
+749,Alice,63,F,Florida
+750,Bob,19,M,Georgia
+751,Hannah,60,F,Georgia
+752,Eve,18,F,Georgia
+753,Bob,68,M,Georgia
+754,Bob,53,M,Texas
+755,Bob,68,M,New York
+756,Frank,43,F,Florida
+757,Bob,46,F,Texas
+758,Charlie,38,M,Georgia
+759,Alice,28,M,New York
+760,Grace,57,M,Illinois
+761,David,28,M,Illinois
+762,Bob,53,M,Illinois
+763,Eve,66,M,Georgia
+764,Bob,56,F,Illinois
+765,Eve,57,F,California
+766,Charlie,52,F,Florida
+767,Eve,51,M,Florida
+768,Hannah,64,M,Georgia
+769,David,41,M,California
+770,Alice,39,M,Texas
+771,Eve,22,M,Texas
+772,Eve,50,M,Illinois
+773,Alice,53,F,New York
+774,David,64,F,Texas
+775,Bob,37,M,New York
+776,Eve,36,F,Florida
+777,Alice,52,M,New York
+778,Hannah,69,F,Florida
+779,Hannah,60,M,California
+780,Charlie,34,M,California
+781,Alice,62,F,Georgia
+782,Charlie,60,F,Georgia
+783,Hannah,51,M,Illinois
+784,David,26,M,Texas
+785,Bob,43,F,Illinois
+786,Alice,19,F,Florida
+787,Grace,26,M,Illinois
+788,Hannah,26,F,New York
+789,Hannah,57,M,Florida
+790,Grace,34,M,Georgia
+791,Frank,18,M,California
+792,Hannah,42,M,Georgia
+793,Eve,60,F,Texas
+794,David,57,F,Florida
+795,Alice,59,F,Florida
+796,Grace,42,F,New York
+797,Eve,56,F,Texas
+798,Grace,52,F,California
+799,Alice,20,F,Florida
+800,Charlie,67,M,Florida
+801,Alice,54,F,New York
+802,Frank,61,F,Illinois
+803,Alice,61,M,California
+804,Alice,68,F,Georgia
+805,Frank,47,F,Texas
+806,David,55,M,Florida
+807,Hannah,51,F,Florida
+808,Alice,29,F,Georgia
+809,Frank,36,F,California
+810,Eve,54,M,Illinois
+811,Charlie,61,F,Florida
+812,Charlie,66,F,California
+813,Alice,34,M,Georgia
+814,David,27,F,New York
+815,David,66,M,Illinois
+816,Eve,64,M,Texas
+817,Alice,29,F,Florida
+818,Charlie,33,M,California
+819,David,41,M,New York
+820,Alice,36,F,Texas
+821,Grace,25,M,California
+822,David,48,M,California
+823,Frank,38,F,Texas
+824,Grace,34,F,New York
+825,Hannah,40,F,Georgia
+826,David,54,M,New York
+827,Charlie,33,F,Illinois
+828,Bob,23,M,Florida
+829,Grace,25,M,Texas
+830,Hannah,42,M,Georgia
+831,Eve,35,M,Texas
+832,Eve,42,M,Texas
+833,Charlie,29,M,New York
+834,David,32,M,Florida
+835,Alice,43,F,Illinois
+836,David,58,F,California
+837,Charlie,62,M,California
+838,Eve,43,M,Texas
+839,David,64,F,Florida
+840,Eve,49,M,Georgia
+841,Grace,27,F,New York
+842,Hannah,33,F,Florida
+843,Alice,24,F,Florida
+844,Grace,34,M,New York
+845,Eve,40,M,Texas
+846,Eve,43,F,Florida
+847,Bob,38,F,California
+848,Bob,39,F,New York
+849,Grace,24,F,Georgia
+850,Frank,31,F,Illinois
+851,Grace,32,M,Texas
+852,Bob,24,F,New York
+853,Eve,26,M,Illinois
+854,Charlie,68,F,Illinois
+855,Grace,65,M,Georgia
+856,Eve,25,M,Florida
+857,Charlie,67,M,Georgia
+858,Charlie,40,M,Florida
+859,Bob,46,M,Florida
+860,Grace,35,M,New York
+861,David,48,F,New York
+862,Alice,47,M,Texas
+863,Bob,69,F,Florida
+864,Bob,56,M,Illinois
+865,David,52,M,California
+866,Alice,35,F,Texas
+867,Eve,59,M,New York
+868,Frank,56,F,Georgia
+869,Grace,34,F,Texas
+870,Frank,31,F,Texas
+871,Eve,48,F,Texas
+872,Hannah,41,M,Texas
+873,Bob,52,M,California
+874,Alice,61,F,Georgia
+875,Bob,62,M,Georgia
+876,Charlie,51,M,Georgia
+877,Bob,20,F,Florida
+878,Bob,54,M,Illinois
+879,Eve,60,F,Georgia
+880,Eve,57,F,Texas
+881,Eve,43,M,Texas
+882,Frank,40,M,Georgia
+883,Charlie,61,M,Georgia
+884,Hannah,56,F,Texas
+885,Hannah,32,F,Florida
+886,Eve,66,M,New York
+887,Alice,21,M,New York
+888,Frank,46,M,Georgia
+889,David,39,M,California
+890,Alice,42,F,Georgia
+891,Grace,30,M,Georgia
+892,Grace,35,F,New York
+893,Alice,50,F,Texas
+894,Eve,33,M,Georgia
+895,David,62,M,Texas
+896,David,59,M,Texas
+897,Frank,61,F,California
+898,David,19,M,Texas
+899,Grace,52,M,New York
+900,Charlie,59,F,Florida
+901,Eve,51,M,Florida
+902,David,47,F,Illinois
+903,Frank,30,M,Georgia
+904,Grace,30,F,New York
+905,Charlie,35,M,Texas
+906,Bob,49,M,Florida
+907,Bob,49,F,New York
+908,Charlie,52,F,Florida
+909,Grace,56,M,Texas
+910,Frank,63,F,Florida
+911,Charlie,69,F,Georgia
+912,Eve,46,F,Georgia
+913,Eve,66,F,Illinois
+914,Bob,46,M,Illinois
+915,David,61,M,Florida
+916,Frank,33,F,New York
+917,Bob,61,F,Georgia
+918,David,64,F,New York
+919,David,27,F,New York
+920,Hannah,47,M,Florida
+921,Eve,42,M,New York
+922,Grace,56,F,Georgia
+923,Alice,37,F,Texas
+924,Grace,22,F,Illinois
+925,Alice,18,M,Texas
+926,Charlie,47,F,New York
+927,Eve,66,M,Texas
+928,David,20,F,Georgia
+929,Frank,62,M,Georgia
+930,Alice,31,F,New York
+931,Grace,47,M,Florida
+932,David,67,F,Texas
+933,Alice,21,F,Florida
+934,Alice,35,F,Florida
+935,Hannah,54,M,California
+936,Alice,42,F,New York
+937,Frank,65,M,Illinois
+938,Eve,18,M,Georgia
+939,Frank,63,F,Georgia
+940,Bob,32,F,New York
+941,David,26,F,Illinois
+942,Eve,32,M,Georgia
+943,Hannah,66,F,New York
+944,Eve,41,M,Georgia
+945,Eve,21,M,Florida
+946,Grace,29,F,Texas
+947,Eve,54,F,Texas
+948,Hannah,54,F,Georgia
+949,Frank,60,F,California
+950,Eve,23,F,Illinois
+951,Charlie,56,F,Illinois
+952,David,63,M,Illinois
+953,Eve,41,M,Florida
+954,David,28,M,Illinois
+955,Charlie,30,F,Texas
+956,Charlie,51,M,Florida
+957,David,42,M,New York
+958,Alice,24,M,Illinois
+959,Bob,69,M,Illinois
+960,Grace,21,M,New York
+961,Alice,25,F,Illinois
+962,Alice,37,F,New York
+963,Frank,46,M,Florida
+964,Grace,68,M,Texas
+965,Grace,62,M,New York
+966,Alice,63,F,California
+967,Eve,27,F,New York
+968,Frank,60,M,Illinois
+969,Frank,51,F,Florida
+970,Charlie,43,F,Georgia
+971,Hannah,58,M,Florida
+972,Grace,66,F,Georgia
+973,Alice,20,F,New York
+974,Charlie,23,M,Texas
+975,David,22,F,California
+976,Bob,22,F,Florida
+977,Hannah,64,M,Illinois
+978,Hannah,40,F,Georgia
+979,Hannah,66,F,Illinois
+980,Frank,26,M,Texas
+981,David,52,M,Georgia
+982,Hannah,37,M,Florida
+983,David,66,F,New York
+984,Eve,59,M,Illinois
+985,Hannah,52,F,Texas
+986,Bob,67,M,Florida
+987,David,35,F,Florida
+988,David,34,M,Florida
+989,Bob,41,M,Florida
+990,Hannah,20,M,Georgia
+991,Bob,49,M,Florida
+992,David,52,F,Illinois
+993,Bob,55,M,Texas
+994,David,30,M,Georgia
+995,David,64,F,Florida
+996,Eve,42,M,California
+997,Alice,26,F,California
+998,David,21,M,Texas
+999,Hannah,31,M,New York
+1000,Charlie,54,M,New York
